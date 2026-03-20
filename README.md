@@ -6,14 +6,21 @@ The data is downloaded from the dataset [Medicare Part D Spending by Drug- Excel
 
 Every sub-folder, unzipped, must be placed in the "data" folder to run the script. You should therefore have:
 `data/Medicare Part D Spending by Drug DYT2016`
+
 `data/Medicare Part D Spending by Drug DYT2017`
+
 `data/Medicare Part D Spending by Drug DYT2018`
+
 `data/Medicare Part D Spending by Drug DYT2019`
+
 `data/Medicare Part D Spending by Drug DYT2020`
+
 `data/Medicare Part D Spending by Drug DYT2021`
+
 `data/Medicare Part D Spending by Drug DYT2022`
+
 `data/Medicare Part D Spending by Drug DYT2023`
 
 ## Data Extraction
 
-The data is then extracted by 'extract_medicare_partd.R', which results in a single .CSV file [medicare_partd_dosage_units_2012_2023.csv]().
+The data is then extracted by 'extract_medicare_partd.R', which results in a single .CSV file [medicare_partd_dosage_units_2012_2023.csv](https://raw.githubusercontent.com/OpenVaet/United_States_drugs_prescription/refs/heads/main/medicare_partd_dosage_units_2012_2023.csv).
