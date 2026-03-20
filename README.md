@@ -45,3 +45,18 @@ It results in the following .CSV file [medicare_partd_dosage_units_2023_llm_enri
 
 ## Plots generation
 
+![Anastrozole Consumption](https://raw.githubusercontent.com/OpenVaet/United_States_drugs_prescription/refs/heads/main/display/anastrozole_consumption.png)
+
+![Bicalutamide Consumption](https://raw.githubusercontent.com/OpenVaet/United_States_drugs_prescription/refs/heads/main/display/bicalutamide_consumption.png)
+
+![Fluorouracil Consumption](https://raw.githubusercontent.com/OpenVaet/United_States_drugs_prescription/refs/heads/main/display/fluorouracil_consumption.png)
+
+![Hydroxyurea Consumption](https://raw.githubusercontent.com/OpenVaet/United_States_drugs_prescription/refs/heads/main/display/hydroxyurea_consumption.png)
+
+![Letrozole Consumption](https://raw.githubusercontent.com/OpenVaet/United_States_drugs_prescription/refs/heads/main/display/letrozole_consumption.png)
+
+![Megestrol Consumption](https://raw.githubusercontent.com/OpenVaet/United_States_drugs_prescription/refs/heads/main/display/megestrol_acetate_consumption.png)
+
+![Methotrexate Consumption](https://raw.githubusercontent.com/OpenVaet/United_States_drugs_prescription/refs/heads/main/display/methotrexate_consumption.png)
+
+![Tamoxifen Citrate Consumption](https://raw.githubusercontent.com/OpenVaet/United_States_drugs_prescription/refs/heads/main/display/tamoxifen_citrate_consumption.png)
