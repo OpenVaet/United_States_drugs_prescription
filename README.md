@@ -1,1 +1,3 @@
-# United_States_drugs_prescription
+# United States Drugs Prescription
+
+The data is extracted from the dataset [Medicare Part D Spending by Drug- Excel Reports including Historical Data 2023](https://data.cms.gov/sites/default/files/2025-05/Medicare%20Part%20D%20Spending%20by%20Drug-Excel%20Reports%20including%20Historical%20Data%20RY25.zip), from [data.cms.gov](https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-part-d-spending-by-drug).
