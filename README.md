@@ -37,8 +37,11 @@ It results in a shorter synthesis .CSV file [medicare_partd_dosage_units_2023_fi
 
 ## LLM Processing
 
-The file generated at the previous step has been processed via Claude Opus 4.6, with the following prompt:
+The file generated at the previous step has been post-processed via Claude Opus 4.6, with the following prompt:
 
 `Given this file containing the 524 most prescribed drugs in the US. We have two columns, "cancer_drug", and "notes". The goal is to put "yes" or "no" in "cancer_drug" depending if the drug is involved in the treatment of cancer ; and "notes" should contain the usage made of the drug (short description - we don't care about treatment time but we care about accuracy).`
 
-It results in the following .CSV file [medicare_partd_dosage_units_2023_llm_enriched.csv]().
+It results in the following .CSV file [medicare_partd_dosage_units_2023_llm_enriched.csv](https://github.com/OpenVaet/United_States_drugs_prescription/blob/main/medicare_partd_dosage_units_2023_llm_enriched.csv).
+
+## Plots generation
+
