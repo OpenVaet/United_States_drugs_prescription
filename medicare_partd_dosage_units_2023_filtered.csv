@@ -49,7 +49,6 @@
 "Glipizide","Glipizide",12,1159600.8,1178840,559609480.3,604470304.7
 "Atenolol","Atenolol",12,2173250.4,1630835,729995518.3,586690757.77
 "Meloxicam","Meloxicam",12,3003277.3,3868062,466667343,583799698.92
-"Pregabalin","Pregabalin",5,1044541.6,1328626,422360855,567131525.98
 "Spironolactone","Spironolactone",12,1404932.5,2081937,353255688.4,530462504.12
 "Tizanidine HCl","Tizanidine HCl",12,1300198.4,1905964,382096701.7,528212835.23
 "Prednisone","Prednisone",12,5505933.8,7163637,488261128,523600081.45
@@ -63,7 +62,6 @@
 "Sucralfate","Sucralfate",12,579676.2,800942,246125267.8,476468530.35
 "Baclofen*","Baclofen",9,1165781.1,1303677,404571175.3,465422248.12
 "Ibuprofen","Ibuprofen",12,2497826.9,3444665,381898509.8,439908257.02
-"Prolastin C","Alpha-1-Proteinase Inhibitor",12,1489.1,2024,312095406.7,436577191
 "Jardiance","Empagliflozin",10,552580,1882768,123726848.9,435253096.37
 "Citalopram HBr","Citalopram Hydrobromide",12,1730355.2,1454397,447778690.1,429648474.7
 "Cyclobenzaprine HCl","Cyclobenzaprine HCl",12,1736936.3,2458292,271016703.1,413599834.47
@@ -101,13 +99,11 @@
 "Dicyclomine HCl*","Dicyclomine HCl",10,741557.3,887927,207455907.6,254181808.24
 "Vascepa","Icosapent Ethyl",11,175271.1,279946,138431053.7,244927465.16
 "Torsemide","Torsemide",12,416994.2,675579,141549038.3,238873374.57
-"Nano 2nd Gen Pen Needle","Pen Needle, Diabetic",5,356337,593832,136048726.2,236237918.94
 "Hydroxychloroquine Sulfate","Hydroxychloroquine Sulfate",12,444125.2,583911,161663564.1,236081561.48
 "Olmesartan Medoxomil","Olmesartan Medoxomil",8,474766,773533,123490460.6,228152746.78
 "Pioglitazone HCl","Pioglitazone HCl",12,589919.2,809827,152105632.8,226945273.57
 "Lovastatin","Lovastatin",12,1017122.7,681080,318147703.2,223247348.23
 "Farxiga","Dapagliflozin Propanediol",10,263219.7,993909,56163302,222129205
-"Albuterol Sulfate HFA","Albuterol Sulfate",5,4362362,6126707,161945365.9,220028564.88
 "Triamterene-Hydrochlorothiazid","Triamterene/Hydrochlorothiazid",12,940630.5,769706,247224258.6,217820193.72
 "Januvia","Sitagliptin Phosphate",12,854916.7,843391,209445176.4,216685586.11
 "Constulose","Lactulose",12,43300.1,84604,117727275.9,211952065.1
@@ -144,15 +140,12 @@
 "Ramipril","Ramipril",12,477243.3,388707,163242563.5,149866108.12
 "Acyclovir*","Acyclovir",10,660833.1,670065,123445992.2,149400333.27
 "Labetalol HCl*","Labetalol HCl",10,247727.4,242891,145984299.7,148972248.92
-"Valproic Acid","Valproic Acid (As Sodium Salt)",12,37061.2,36156,149288071,148262445.92
 "Aripiprazole","Aripiprazole",9,488583.7,613179,107398353.3,148225358
 "Fenofibrate","Fenofibrate",12,493585.2,500170,134281131.8,143772577.81
 "Midodrine HCl","Midodrine HCl",12,188437.3,355371,76330391,142254480.03
-"Sodium Chloride","Sodium Chloride Irrig Solution",12,33820.8,16101,243286690.2,137341748.6
 "Diazepam*","Diazepam",10,972421.6,872368,178548960.3,137247210.33
 "Olanzapine*","Olanzapine",10,441795.5,516737,116896796.3,135172604.14
 "Ondansetron HCl*","Ondansetron HCl",10,1533215.4,2094495,102683737.2,134846372.18
-"Lactated Ringers*","Ringer'S Solution,Lactated",10,2437.1,3782,68279083.5,133642336.8
 "Sotalol","Sotalol HCl",12,243879.2,262533,117065016.7,133283893.67
 "Restasis","Cyclosporine",12,522150.4,492479,127524122.5,132524538.5
 "Amoxicillin-Clavulanate Potass","Amoxicillin/Potassium Clav",12,3495999.1,5205096,93782121.1,131953724.51
@@ -161,7 +154,6 @@
 "Oxcarbazepine","Oxcarbazepine",12,168112.2,195822,103719233.2,129505178.73
 "Carbamazepine","Carbamazepine",12,163064.2,135324,154496119.5,128338342.77
 "Terazosin HCl","Terazosin HCl",12,425858.2,339977,148964401.4,128181947
-"Ranolazine ER","Ranolazine",5,242644.8,273638,108794983.6,127431423.9
 "Valsartan-Hydrochlorothiazide","Valsartan/Hydrochlorothiazide",12,504260.4,422476,126423208.6,126875103.92
 "Clobetasol Propionate","Clobetasol Propionate",12,920501.4,1250981,97863440.6,123908945.84
 "Advair Diskus","Fluticasone Propion/Salmeterol",10,864364.8,397554,285120220.8,123485894.8
@@ -169,7 +161,6 @@
 "Valacyclovir","Valacyclovir HCl",12,921109.5,1382297,73425708.9,122812867.5
 "Fenofibrate","Fenofibrate Nanocrystallized",12,403651.5,445258,97972236.3,122809348.32
 "Ondansetron ODT","Ondansetron",12,1237091.1,2510273,56501844.7,122468269.33
-"Prosol","Parenteral Amino Acid 20% No.1",12,6600.1,4578,329655712.6,122178535.7
 "Ultra-Fine Mini Pen Needle","Pen Needle, Diabetic",10,332988.9,308396,129324768.3,122069040
 "Morphine Sulfate ER","Morphine Sulfate",12,372696.5,255247,180778518.6,122020898.35
 "Fluticasone-Salmeterol","Fluticasone Propion/Salmeterol",7,243633.9,464129,55935910.7,121280122.73
@@ -194,7 +185,6 @@
 "Digoxin*","Digoxin",10,476602.4,392747,107647963.5,95698945.576
 "Calcium Acetate","Calcium Acetate",12,137502.1,108459,125104185.8,95151608.464
 "Sulfamethoxazole-Trimethoprim*","Sulfamethoxazole/Trimethoprim",10,3139905.2,3086523,102721505.7,95109456.35
-"Wixela Inhub","Fluticasone Propion/Salmeterol",5,345721.4,320592,101026158.6,94481942
 "Nitroglycerin*","Nitroglycerin",10,991321.8,1348161,65110308.2,92798969.336
 "Brilinta","Ticagrelor",12,148993.3,234770,55412586.6,90507614
 "Cholestyramine","Cholestyramine (With Sugar)",12,167634.9,186287,88661325.6,90304805.578
@@ -213,10 +203,8 @@
 "Temazepam","Temazepam",12,534586.5,394771,92234567.2,80559678.7
 "Doxepin HCl*","Doxepin HCl",10,236653.7,276316,63665360.5,79721409.477
 "Carbidopa-Levodopa ER","Carbidopa/Levodopa",12,104200.3,119402,67705741.8,78589937.426
-"Sodium Chloride","Sodium Chloride 0.45 %",12,14321,11489,98713990.9,78535294.74
 "Klor-Con M20","Potassium Chloride",11,453107.9,274807,114414825.9,78026616.667
 "Bisoprolol Fumarate","Bisoprolol Fumarate",12,179056.4,262683,48410044.1,76646730.24
-"Dextrose 5%-0.45% NaCl","Dextrose 5 %-0.45 % Sod Chlord",12,19221.3,13827,112789695.3,76159258.765
 "Potassium Citrate ER","Potassium Citrate",12,98117.6,131779,55348085.5,75429360.119
 "Prazosin HCl","Prazosin HCl",12,134861.3,206010,49160218.3,74734401.632
 "Propranolol HCl ER","Propranolol HCl",12,190872.8,243981,55671138.7,73699601.989
@@ -239,7 +227,6 @@
 "Olmesartan-Hydrochlorothiazide","Olmesartan/Hydrochlorothiazide",8,179114.6,234430,42060248.7,66139605.824
 "Lidocaine","Lidocaine",12,450161.8,481042,81333935.2,65554210.952
 "Clenpiq","Sod Picosulf/Mag Ox/Citric Ac",6,73034.8,184930,24518404.4,64467260
-"Solifenacin Succinate","Solifenacin Succinate",5,238155.2,301190,47338341.4,64035147.199
 "Venlafaxine HCl","Venlafaxine HCl",12,190925,167773,70101034,63783984.5
 "Liothyronine Sodium*","Liothyronine Sodium",10,126714.7,171270,42611123.3,63179622.851
 "Azithromycin*","Azithromycin",10,5506938.5,5970026,55336899.1,62039177.252
@@ -248,7 +235,6 @@
 "Isosorbide Dinitrate","Isosorbide Dinitrate",12,138788.1,129460,62994853.8,60532704.023
 "Dutasteride","Dutasteride",9,188887,224682,44381457,60447761
 "Repaglinide","Repaglinide",11,73030.2,85718,44927924.4,60315626.5
-"Rytary","Carbidopa/Levodopa",9,20608.2,32157,37588717.9,59798950.6
 "Nitrofurantoin Mono-Macro","Nitrofurantoin Monohyd/M-Cryst",12,1737407.9,2638012,42287971.9,58828505.739
 "Ipratropium Bromide*","Ipratropium Bromide",10,501996.1,743544,43880147.9,58613294.476
 "Colestipol HCl","Colestipol HCl",12,95106.2,141803,41002926.7,58368980.576
@@ -267,9 +253,7 @@
 "Methenamine Hippurate","Methenamine Hippurate",12,84254.6,161162,27527286.8,55254255.614
 "Colesevelam HCl","Colesevelam HCl",6,59191.8,66749,45780485,53440766.4
 "Letrozole","Letrozole",12,137871.4,198661,34998181.6,53136859.406
-"Acetic Acid*","Acetic Acid",10,34922.5,43136,39398216.3,51844937.082
 "Amantadine","Amantadine HCl",12,91153.1,98048,42918907.7,51662947.041
-"Rybelsus","Semaglutide",5,121333,285693,20313260.7,51408381.197
 "Symbicort","Budesonide/Formoterol Fumarate",12,918607,984400,47265685,51355547.042
 "Latanoprost","Latanoprost",12,1720769,2403493,34165685.7,51092739.069
 "Phenobarbital","Phenobarbital",12,61420.1,52777,59035374.2,49957947.381
@@ -279,10 +263,8 @@
 "Morphine Sulfate*","Morphine Sulfate",10,241593,221130,64869969,48674314.943
 "Raloxifene HCl","Raloxifene HCl",10,218728.8,169339,56163278.9,48626200.924
 "Novolog Flexpen","Insulin Aspart",12,519878.9,588526,41610645.7,48302818.2
-"Water","Water For Irrigation,Sterile",12,6696.1,5352,64598518.6,48076495.905
 "Azathioprine","Azathioprine",12,83359.6,90745,39375877,46365228.754
 "Nabumetone","Nabumetone",12,285655.5,222409,56245997.5,46174880
-"Golytely","PEG3350/Sod Sulf,Bicarb,Cl/KCl",12,17368.1,10172,67427447.5,46147023.41
 "Butalbital-Acetaminophen-Caffe","Butalb/Acetaminophen/Caffeine",12,166741.9,185132,37814482.6,45708625
 "Silver Sulfadiazine","Silver Sulfadiazine",12,237169.2,251600,47310531.4,45602862.204
 "Cyclosporine*","Cyclosporine",10,30913.9,188711,7482234.3,45429929.7
@@ -300,8 +282,6 @@
 "Xiidra","Lifitegrast",8,83336.5,149642,20567648,39876358
 "Insulin Syringe","Syringe And Needle,Insulin,1ml",12,266618.2,125222,94376601.8,39792273.843
 "Comfort Ez Pen Needle","Pen Needle, Diabetic",10,61151.8,92044,27937099,39721671.575
-"Zenpep","Lipase/Protease/Amylase",12,30124.9,46322,22206323.7,39622745
-"Balsalazide Disodium","Balsalazide Disodium",12,23365.8,24237,35736455.2,39415591.997
 "Suprep","Sodium, Potassium,Mag Sulfates",12,571293.9,108083,207407343.3,39266327
 "Pentoxifylline","Pentoxifylline",12,96326.2,88717,41340285.3,38936102
 "Diltiazem 24hr ER","Diltiazem HCl",12,231446.4,163220,51936815.7,38658178
@@ -309,7 +289,6 @@
 "Mometasone Furoate*","Mometasone Furoate",10,437774.8,490025,30042444,37150601.027
 "Dofetilide","Dofetilide",8,49985.4,65815,25182905.5,37048301.003
 "Incruse Ellipta","Umeclidinium Bromide",9,205610.3,201618,35963235.5,36556605.1
-"Gamunex-C","Immune Globul G/Gly/IgA Avg 46",12,3020.2,4523,22582689.4,36287223
 "Progesterone","Progesterone, Micronized",12,75628.3,142649,15320860.4,36221200.857
 "Betamethasone Dipropionate","Betamethasone Dipropionate",12,331075.9,407711,29933927.5,35823079.148
 "Dorzolamide-Timolol","Dorzolamide HCl/Timolol Maleat",12,498520.7,710453,24055094.8,35787818.815
@@ -325,9 +304,7 @@
 "Humalog Kwikpen U-100","Insulin Lispro",12,358609.2,418431,28333098.7,33756806.5
 "Single Use Swab","Alcohol Antiseptic Pads",12,145470.6,100066,57789650.7,33725192.999
 "Janumet XR","Sitagliptin Phos/Metformin HCl",12,73542.4,89316,25059275,33399526
-"Gammagard Liquid","Immun Glob G(IgG)/Gly/IgA Ov50",12,3647,4401,25838779.1,33365876
 "Minoxidil","Minoxidil",12,65327.7,122359,25909490.1,33129367.043
-"Abiraterone Acetate","Abiraterone Acetate",6,26110,45661,16521567,32615964
 "Prochlorperazine Maleate","Prochlorperazine Maleate",12,348946.2,399978,28030019.2,32403126.889
 "Propafenone HCl","Propafenone HCl",12,61669.2,51674,38934959.5,32184983
 "Leflunomide","Leflunomide",12,97891.1,136112,20625477.6,32118325.786
@@ -340,8 +317,6 @@
 "Lithium Carbonate ER","Lithium Carbonate",12,63693.6,61548,30982066.4,30825587.532
 "Terbinafine HCl","Terbinafine HCl",12,295279.1,415181,20265439.3,30209503.365
 "Pen Needle","Pen Needle, Diabetic",12,84056.6,91653,24825618.4,30144214
-"Dextrose In Water","Dextrose 5 % In Water",12,9581.4,8517,39499018.4,29704350.086
-"Mesalamine ER","Mesalamine",5,22805.4,32353,19064385.2,29638249.103
 "Verapamil HCl*","Verapamil HCl",10,75428.8,60545,31356660.3,29179945.93
 "Glyburide","Glyburide",12,185927.8,59131,83024415.5,28906072
 "Fludrocortisone Acetate","Fludrocortisone Acetate",12,99730.7,110294,26033382.5,28749262.77
@@ -349,7 +324,6 @@
 "Carisoprodol","Carisoprodol",12,164174.4,62766,67676037.1,28635634.5
 "Ciclopirox","Ciclopirox Olamine",12,168349.8,233909,20552822.2,28494843.948
 "Autoshield Duo Pen Needle","Pen Needle,Dual Safety,Diabetc",12,39527.6,65587,15567129.7,28274579.68
-"Acarbose","Acarbose",12,42082,42919,23840085.6,28183233
 "Basaglar Kwikpen U-100","Insulin Glargine,Hum.Rec.Anlog",8,269569.9,352073,21526358.7,27938494.012
 "Atenolol-Chlorthalidone","Atenolol/Chlorthalidone",12,127303.8,95405,34144016.5,27760347.317
 "Timolol Maleate*","Timolol Maleate",10,713429.6,789738,24319310,27626030.926
@@ -364,14 +338,10 @@
 "Verapamil SR","Verapamil HCl",12,70074.2,89811,18080842.7,26085604
 "Tamoxifen Citrate","Tamoxifen Citrate",12,94831.6,97487,25184867.3,25657348.857
 "Fluconazole","Fluconazole",12,1596312.5,2001592,20374633.1,25574979.885
-"Nateglinide","Nateglinide",12,50567.5,38358,31765432,25307304.5
 "Fluvoxamine Maleate","Fluvoxamine Maleate",12,43691.6,51310,20420606.1,25187217.931
 "Rivastigmine","Rivastigmine Tartrate",12,53346.8,56505,22440559.8,25126669.666
 "Sildenafil Citrate","Sildenafil Citrate",9,115438.9,253277,19556871.7,24926902.3
 "Lantus","Insulin Glargine,Hum.Rec.Anlog",12,563198.5,279981,55975081,24898755.174
-"Velphoro","Sucroferric Oxyhydroxide",10,21055.8,36082,14307154.3,24795871.393
-"Sulfasalazine Dr","Sulfasalazine",12,33396.4,31993,23971417.4,24649717
-"Dextrose 5%-0.9% NaCl","Dextrose 5 % And 0.9 % NaCl",12,5442.7,4340,31795595.6,24218937.13
 "Trintellix","Vortioxetine Hydrobromide",8,86869.1,98771,18750786.8,23850297.5
 "Ultra-Fine Micro Pen Needle","Pen Needle, Diabetic",7,38178.4,68927,12634206,23760914.556
 "Biktarvy","Bictegrav/Emtricit/Tenofov Ala",6,57758.8,83843,15557231.6,23678920.5
@@ -382,13 +352,8 @@
 "Dilt-XR","Diltiazem HCl",12,132184.8,106695,32630214.9,23316342.556
 "Quetiapine Fumarate ER","Quetiapine Fumarate",8,69451.6,76394,17486832.1,23298882
 "Fluorouracil*","Fluorouracil",10,377607.1,500442,17190377.8,23206650.149
-"Auryxia","Ferric Citrate",9,20319.3,21122,19569268.9,23147193
-"Brimonidine Tartrate*","Brimonidine Tartrate",5,486999.6,573214,19867470.1,23033286.776
 "Benazepril-Hydrochlorothiazide","Benazepril/Hydrochlorothiazide",12,91991.2,68689,26971705.6,22773917.5
 "Klor-Con M10","Potassium Chloride",11,172193.7,77086,40633679.5,22691728.6
-"Privigen","Immun Glob G(IgG)/Pro/IgA 0-50",12,1650.7,3071,11482660.3,22618590
-"Veo Insulin Syringe","Syringe-Needle,Insulin,0.5 Ml",10,52686.1,49471,22141835.6,22615355
-"Levetiracetam ER","Levetiracetam",12,22662.6,33692,13409958.6,22126997.869
 "Alcohol Swabs","Alcohol Antiseptic Pads",12,44106.3,66805,12960283.8,22066912.7
 "Metolazone","Metolazone",12,265899.6,221550,28600761.3,21852479.029
 "Levofloxacin*","Levofloxacin",10,2462456.9,1827884,28282267.7,21578724.408
@@ -396,1185 +361,165 @@
 "Sumatriptan Succinate*","Sumatriptan Succinate",10,378621.2,453972,17576180.3,21048575.663
 "Glycopyrrolate*","Glycopyrrolate",10,43574.1,51524,14737469.7,20990238.559
 "Synjardy XR","Empagliflozin/Metformin HCl",7,27092.6,58868,9028425.7,20889934
-"Bethanechol Chloride","Bethanechol Chloride",12,49684,44613,22488566,20867517.954
 "Nadolol","Nadolol",12,86539,65690,26448039.2,20683549.5
 "Xtampza ER","Oxycodone Myristate",8,36892.6,52082,13258011.6,20551975
 "Dextroamphetamine-Amphet ER","Dextroamphetamine/Amphetamine",12,67822.6,97857,17563361.6,20491099
 "Nyamyc","Nystatin",12,149413.8,223063,13924593.2,20448574.045
 "Eplerenone","Eplerenone",12,41992.8,67162,12124493.3,20409666.861
 "Diltiazem 24hr ER (XR)","Diltiazem HCl",6,76573.2,91898,19166244.2,20346403
-"Imipramine HCl","Imipramine HCl",12,57070.2,43445,25584787.8,20276563.5
 "Tresiba Flextouch U-100","Insulin Degludec",9,146879.4,258451,11252528,20224379
 "Prasugrel HCl","Prasugrel HCl",7,74105.3,85432,16317190.7,20199857
-"Phenytoin","Phenytoin",12,25063.7,14557,37247806.8,20125770.057
-"Buprenorphine HCl*","Buprenorphine HCl",10,25071.6,43669,11211738.2,20062401.95
 "Armour Thyroid","Thyroid,Pork",12,56358.3,64967,16157884.2,20047145.858
 "Amlodipine-Olmesartan","Amlodipine Bes/Olmesartan Med",8,50175.6,74543,11961837.2,20038753.5
-"Atovaquone","Atovaquone",10,13340.5,21829,11155020.3,19939666.819
 "Xifaxan","Rifaximin",12,73181.6,96011,15877105.8,19848575.889
 "Betamethasone Diprop Augmented","Betamethasone/Propylene Glyc",10,201752.5,206429,18551918.4,19807303.29
 "Sure Comfort Pen Needle","Pen Needle, Diabetic",6,47454.3,57064,15871159.4,19332297.937
-"Xtandi","Enzalutamide",12,18881.3,28658,12598159.2,19311687
 "Ezetimibe-Simvastatin","Ezetimibe/Simvastatin",7,65490,65526,17523760.8,19304954
 "Rabeprazole Sodium","Rabeprazole Sodium",11,53596.8,65972,13987482.3,19286556
-"Entacapone","Entacapone",12,22627.2,24164,17031721.3,19243859.11
 "Cholestyramine Light","Cholestyramine/Aspartame",12,39799.6,56814,17143845.1,19208414.264
 "Vraylar","Cariprazine HCl",8,48598,98229,9341293.7,19167941.733
 "Santyl","Collagenase Clostridium Hist.",10,174680.9,148983,17443850.4,19157845.381
 "Diclofenac Potassium","Diclofenac Potassium",12,145995.3,147980,19436134.3,19080622.5
 "Fosinopril Sodium","Fosinopril Sodium",12,79819.7,50736,25801132.1,18691523
-"Dilantin","Phenytoin Sodium Extended",12,32019.1,19752,29106849.8,18529305.753
 "Minocycline HCl","Minocycline HCl",12,183196.3,158316,21537693.8,18436086.213
-"Trihexyphenidyl HCl","Trihexyphenidyl HCl",12,39492.4,31777,21054751.2,18435272.132
-"Febuxostat","Febuxostat",5,79416,74956,17324009.7,18333911.563
 "CyproHEPtadine HCl","CyproHEPtadine HCl",12,54571.9,66484,13050273.1,18294900.57
 "Lidocaine-Prilocaine","Lidocaine/Prilocaine",12,207408.2,190729,45351032,18128098.788
 "Cefuroxime","Cefuroxime Axetil",12,809583,873273,18109514.7,18062299.33
 "Penicillin V Potassium","Penicillin V Potassium",12,494597.2,384413,21863949.8,17916176.6
 "Tramadol HCl-Acetaminophen","Tramadol HCl/Acetaminophen",12,228562.9,120732,43614979.4,17913466
-"Easy Touch Pen Needle","Pen Needle, Diabetic",12,42018.8,49422,14604852.2,17737658
 "Telmisartan-Hydrochlorothiazid","Telmisartan/Hydrochlorothiazid",10,51448.2,61307,12483301.1,17553213
 "Invokana","Canagliflozin",11,136389.8,69576,29224404.6,17454648
 "Livalo","Pitavastatin Calcium",11,65079.1,70926,14094205.4,17394226.5
-"Cromolyn Sodium*","Cromolyn Sodium",10,41713.9,37634,9787770.6,17327995
 "Trueplus Pen Needle","Pen Needle, Diabetic",7,60671.1,58500,18746981,17254820.245
 "Novolog","Insulin Aspart",12,259293.8,148967,23314218.2,17194178.113
 "Modafinil","Modafinil",12,55310.2,69010,12682702.6,17173460
-"Renvela","Sevelamer Carbonate",12,112165.8,16562,140118028.6,17074224.144
 "Humalog","Insulin Lispro",12,239927,156031,20492570.1,17053782.95
 "Medroxyprogesterone Acetate*","Medroxyprogesterone Acetate",10,120525.9,108623,17268732.1,16977414.69
 "Budesonide Dr","Budesonide",7,43884.9,61841,10692068.4,16916334
-"Chlorpromazine HCl*","Chlorpromazine HCl",10,44375.4,37336,18408573.2,16868714.599
 "Nystop","Nystatin",12,315220.2,225445,26863463.9,16797855.142
-"Octagam","Immun Globg(IgG)/Malt/IgA Ov50",12,993.5,2511,6740840.2,16642330
 "Klor-Con 10","Potassium Chloride",12,198165.5,71147,49671337.3,16552719
 "Naltrexone HCl","Naltrexone HCl",12,51834.8,110953,7612951.7,16479707.118
 "Diltiazem 12hr ER","Diltiazem HCl",12,40719.5,50070,12111177.5,16457181.57
 "Techlite Pen Needle","Pen Needle, Diabetic",7,24751.9,53707,7441239.8,16329934.211
-"Insulin Syringe","Syring-Needl,Disp,Insul,0.3 Ml",12,105020.5,47345,35628642.2,16260456
 "Acetazolamide","Acetazolamide",12,83437.2,90681,14434052.5,16232723.086
-"Sodium Polystyrene Sulfonate*","Sodium Polystyrene Sulfonate",10,39602.5,29272,23363111,16182334.453
-"Synjardy","Empagliflozin/Metformin HCl",9,14989.9,35768,6283607,15968209
 "Tadalafil","Tadalafil",6,57504.7,74638,12270876,15792903.611
-"Indomethacin*","Indomethacin",5,132215.4,123532,15890871.8,15431000
-"Xigduo XR","Dapaglifloz Propaned/Metformin",5,28719,43054,9792990.4,15343906
 "Trulicity","Dulaglutide",10,385520.9,938731,6078571.5,15240416.417
-"Veo Insulin Syringe","Syringe And Needle,Insulin,1ml",10,38505.1,35825,15435483.5,15231672.555
 "Spironolactone-HCTZ","Spironolact/Hydrochlorothiazid",12,65671.2,59713,16419797.8,15147595.977
-"Niacin ER","Niacin",11,100353.9,42698,26034346,15079807.7
-"Perphenazine","Perphenazine",12,34383.9,24517,17833859,14996783.804
-"Desmopressin Acetate*","Desmopressin Acetate",10,33576,35693,11700476,14827722.749
 "Rivastigmine","Rivastigmine",9,85698.1,73120,16151484.8,14825427
-"Valproic Acid","Valproic Acid",12,22043.4,20614,15305394.3,14765060.857
 "Ciclopirox","Ciclopirox",12,259115.1,397306,11280091.5,14723477.541
 "Tresiba Flextouch U-200","Insulin Degludec",9,132455.4,197096,9498844.2,14610581.438
 "Flovent HFA","Fluticasone Propionate",12,331913,319369,15499739.4,14532367.5
 "Sodium Fluoride*","Fluoride (Sodium)",7,16361.1,66196,4823376.9,14481462.942
 "Silodosin","Silodosin",6,47472.7,65592,10302191.2,14470842
-"Cevimeline HCl","Cevimeline HCl",12,18685.6,26123,10088808.8,14424310.558
 "Dorzolamide HCl","Dorzolamide HCl",12,223350,288929,10038149.6,14292128.452
-"Renacidin","Citric Ac/Gluconolact/Mag Carb",12,1787.1,2477,10332378,14220850
 "Gentamicin Sulfate*","Gentamicin Sulfate",10,260847.4,255052,17709759.7,14163265.791
 "Permethrin","Permethrin",12,154519.3,128757,16283441.1,14127586
 "Vitamin D2","Ergocalciferol (Vitamin D2)",12,161823.7,523722,3910077.9,13767586.204
-"Novofine 32","Pen Needle, Diabetic",12,80003,38794,29363781.4,13705546.9
-"Fluphenazine HCl*","Fluphenazine HCl",10,32067.5,25724,14250808.6,13251994.197
 "Paliperidone ER","Paliperidone",9,35878.1,50007,8711576.9,13224316
-"Cinacalcet HCl","Cinacalcet HCl",5,40988.6,52976,9278381.3,13000317.967
-"Gammaplex","Immun Glob G(IgG)/Gly/IgA 0-50",7,1192.1,1742,8113935.7,12997780
 "Zolpidem Tartrate ER","Zolpidem Tartrate",12,72271.9,69112,12430651.7,12868199
-"Theophylline ER","Theophylline Anhydrous",6,46022.8,39063,15406755.2,12820775.511
-"Ultra-Fine Original Pen Needle","Pen Needle, Diabetic",10,45541,33661,16914761.7,12811118.909
-"Tolterodine Tartrate","Tolterodine Tartrate",12,48015.8,39625,14268556.7,12742671.559
 "Rexulti","Brexpiprazole",9,36747.8,66421,7026838.5,12594434.75
 "Humulin N","Insulin NPh Human Isophane",12,121632.3,87919,16217390.4,12585136.33
-"Novofine Autocover","Pen Needle, Diabetic, Safety",12,38627.8,30433,15549125.8,12574658.666
 "Calcipotriene","Calcipotriene",12,66113.2,72274,17660464.3,12396067
-"Budesonide EC","Budesonide",12,47174.7,46342,11003639.8,12279868
 "Ketorolac Tromethamine*","Ketorolac Tromethamine",10,716608.1,951621,8727886,12273926.235
 "Betamethasone Valerate","Betamethasone Valerate",12,147551.4,145618,12987528.6,12266067.176
 "Atomoxetine HCl","Atomoxetine HCl",7,37537.6,56491,7802836.4,12242693
-"Isosorbide Mononitrate","Isosorbide Mononitrate",12,38456.8,32483,14475597.2,12212000.75
 "Sulindac","Sulindac",12,82587.8,58059,16828380.9,12204974
-"Flovent Diskus","Fluticasone Propionate",12,40966,46104,10722631.8,12121126.2
-"Aspirin-Dipyridamole ER","Aspirin/Dipyridamole",9,45079.3,22634,15866589.4,12076550.999
 "Arnuity Ellipta","Fluticasone Furoate",9,50551.8,74815,7853205.9,11948596.2
 "Cartia Xt","Diltiazem HCl",12,305095.7,59399,70194688.5,11824576
-"Epidiolex","Cannabidiol (Cbd)",6,3029.5,4236,7420342.5,11798349.09
-"Exemestane","Exemestane",12,43222.2,49951,9672715.4,11795094.5
-"Mexiletine HCl","Mexiletine HCl",12,15499.1,20421,8843554.8,11739843.849
-"Clobazam","Clobazam",6,13240.8,18477,7800342.1,11719738.337
-"Gammaked","Immune Globul G/Gly/IgA Avg 46",12,724,1549,4881242.5,11697400
-"Fenofibric Acid","Fenofibric Acid (Choline)",11,72446.2,40800,16281905.1,11689682
-"Dorzolamide-Timolol","Dorzolamide/Timolol/PF",6,23326.8,34338,7361498.8,11514997
-"Glyburide-Metformin HCl","Glyburide/Metformin HCl",12,72036,16144,38479355.6,11451208
-"Insulin Lispro Kwikpen U-100","Insulin Lispro",5,157727.4,215312,8321900.8,11412034.2
-"Belbuca","Buprenorphine HCl",7,24506.2,34521,7651596.3,11364961
-"Budesonide*","Budesonide",10,38943.1,32957,13722241.9,11296476
-"Levoxyl","Levothyroxine Sodium",12,74182.2,37814,15610882.7,11155430
 "Bicalutamide","Bicalutamide",12,80410.4,73843,12314865.4,11077156
-"Otezla","Apremilast",10,16343,26816,6148633.2,11001585
 "Fluocinolone Acetonide","Fluocinolone Acetonide",12,76932.7,80799,9981978.6,10826964.039
 "Belsomra","Suvorexant",9,58302.2,86387,7078259.2,10758271.5
-"Mesalamine Dr","Mesalamine",5,10148.4,9934,10189749.4,10726525
 "Vyvanse","Lisdexamfetamine Dimesylate",12,31039.3,57529,6700212.7,10656095
-"Austedo","Deutetrabenazine",7,10118.6,18283,5603124.4,10635366.5
 "Cefadroxil","Cefadroxil",12,187892.7,315336,5887668.8,10617675.98
-"Lamotrigine ER","Lamotrigine",11,15475,23679,6317693.1,10429121.5
-"Jentadueto","Linagliptin/Metformin HCl",12,20355.6,20684,9273159.8,10332046
-"Olmesartan-Amlodipine-HCTZ","Olmesartan/Amlodipin/HCThiazid",8,29340.9,37961,7502243.5,10196637
 "Advair HFA","Fluticasone Propion/Salmeterol",10,133814.3,180362,7597154.7,10160958.8
 "Halobetasol Propionate","Halobetasol Propionate",12,85247.2,89868,9462134.9,10122432.177
 "Movantik","Naloxegol Oxalate",8,53898.7,73045,6009862.9,10104258
-"Amiloride HCl","Amiloride HCl",12,21253.4,26467,6922852.7,9750953
-"Suboxone","Buprenorphine HCl/Naloxone HCl",12,47358,22745,19387350.8,9713052.5
-"Diclofenac Epolamine","Diclofenac Epolamine",5,35405,34754,10013340.8,9643268
-"Captopril","Captopril",12,49750.1,18382,25520904.5,9625522
-"Unifine Pentips Plus","Pen Needle, Diabetic",12,23722,28588,7707689.7,9587797.9
 "Nystatin-Triamcinolone","Nystatin/Triamcinolone Acet",6,142714.3,145372,9512600,9563788.845
-"Meropenem","Meropenem",12,18661.4,27599,11110568.8,9527045.772
-"Cimetidine","Cimetidine",12,36746.7,29869,9732843.1,9506595.067
-"Briviact*","Brivaracetam",8,7313,12831,4963657,9434510
-"Prevident","Fluoride (Sodium)",10,39956.4,38667,10160757.3,9302280.3
-"Clomipramine HCl","Clomipramine HCl",12,16847.6,15618,9921168.3,9129488.75
 "Econazole Nitrate","Econazole Nitrate",12,163274.2,83651,19694460.2,9071627.283
-"Carbidopa-Levodopa-Entacapone","Carbidopa/Levodopa/Entacapone",12,15399.7,9262,13724289.6,9064861
-"Nitroglycerin Patch","Nitroglycerin",12,96283.2,48098,17157264.2,9030463
-"Enalapril-Hydrochlorothiazide","Enalapril/Hydrochlorothiazide",12,44731.3,30595,11928391.6,9015748
-"Mycophenolic Acid","Mycophenolate Sodium",10,8373.2,13221,5829871.1,8986825
 "Fentanyl","Fentanyl",12,302459.9,124042,20035732.6,8941071.275
 "Humulin 70-30","Insulin NPh Hum/Reg Insulin Hm",12,89703,53022,13726578.1,8937959.5
-"Clorazepate Dipotassium","Clorazepate Dipotassium",12,45917.1,26466,15062716.5,8893584.5
 "Latuda","Lurasidone HCl",12,93809.1,76110,20470204.5,8838042.882
 "Trimethoprim","Trimethoprim",12,69566.9,53845,8853437.3,8820227
 "Levemir","Insulin Detemir",12,164565.9,90227,15738040.1,8804331.67
-"Tivicay","Dolutegravir Sodium",11,28275.1,30088,7789400.4,8798913
 "Diclofenac Sodium ER","Diclofenac Sodium",12,62986.5,59234,6808391.2,8770435
-"Vimpat*","Lacosamide",10,61402.3,10829,47733562.2,8701922
-"Acebutolol HCl","Acebutolol HCl",12,21697.5,18164,9759718.6,8673062
 "Rizatriptan","Rizatriptan Benzoate",11,116992.5,180679,5592479.4,8653285.533
-"Easy Comfort Pen Needle","Pen Needle, Diabetic",10,19358.1,19132,8136709,8647448
 "Novolog Mix 70-30 Flexpen","Insulin Aspart Prot/Insuln Asp",12,91425,62157,12373048.2,8644591
 "Ofloxacin*","Ofloxacin",10,843860.8,1021068,6979173.4,8618404.78
-"Acamprosate Calcium","Acamprosate Calcium",11,10504.5,15765,5455503.5,8557788
-"Fluocinolone Acetonide","Fluocinolone/Shower Cap",12,31513,40323,6909543.3,8469531.129
-"Prevalite","Cholestyramine/Aspartame",12,30635,23744,10860800.7,8431856.4
-"Candesartan-Hydrochlorothiazid","Candesartan/Hydrochlorothiazid",12,18571,28212,4981608,8397204
 "Novolin 70-30","Insulin NPh Hum/Reg Insulin Hm",12,101199.6,51680,15210148,8395340.136
-"Ofev","Nintedanib Esylate",10,12000.2,20444,4672308.7,8318453
-"Rasagiline Mesylate","Rasagiline Mesylate",7,35093.7,30404,9131443.1,8298304.5
-"Dalfampridine ER","Dalfampridine",6,13447.3,16171,6327213.8,8265885
-"Galantamine HBr","Galantamine HBr",12,20151.7,20815,7109973.2,8220059
-"Dexilant","Dexlansoprazole",12,258342.1,47796,56636672.3,8212930.7
-"Desloratadine","Desloratadine",12,39215.7,42939,6720486.6,8183110
-"Propafenone HCl ER","Propafenone HCl",12,16311.2,16090,7617846.8,8179284
-"Keppra*","Levetiracetam",10,7599.2,5459,10387154.8,8132294.5
-"NP Thyroid","Thyroid,Pork",12,15806.7,33052,3409739.5,8003069
 "Victoza 3-Pak","Liraglutide",12,174327.2,142213,9927202.6,7913340.7
-"Erleada","Apalutamide",6,6661,11077,4932652.7,7909683
-"Linezolid-D5W","Linezolid In Dextrose 5%",8,947.1,1140,5828642.4,7884656
-"Droplet Insulin Syringe","Syringe And Needle,Insulin,1ml",5,12752.2,15097,6700503.4,7868595
-"Methylphenidate ER","Methylphenidate HCl",12,27877.9,34053,7470442.9,7830646
-"Nexium","Esomeprazole Magnesium",12,551483.4,23197,129781271.3,7817938
-"Olanzapine ODT","Olanzapine",12,35691.6,45395,6509706.4,7815200.696
-"Descovy","Emtricitabine/Tenofov Alafenam",8,30375.2,29514,7715341.2,7813436
-"Lanthanum Carbonate","Lanthanum Carbonate",7,10180.1,13966,5626871.4,7801019.5
 "Tretinoin*","Tretinoin",10,68183.3,91688,4952462.4,7742603.6
-"Levocarnitine","Levocarnitine (With Sugar)",12,1271.5,1832,4680560.6,7615753.299
-"Lokelma","Sodium Zirconium Cyclosilicate",5,50717.6,94774,4073484.7,7544238.574
-"Savella","Milnacipran HCl",12,27757,16373,11191697.3,7531950.5
 "Spiriva Respimat","Tiotropium Bromide",10,251498.4,333929,5288877.1,7492306.238
 "Erythromycin*","Erythromycin Base",10,701885.5,931761,6382313.3,7326398.501
-"Guanfacine HCl","Guanfacine HCl",12,22784.2,22464,7158450,7319967.5
-"Pen Needles","Pen Needle, Diabetic",12,28171.7,19712,10112605.8,7280661.331
-"Lyrica","Pregabalin",12,539843,13275,222135222.5,7208628
-"Metformin ER Gastric","Metformin HCl",8,19271.2,20436,5922326,7207066.5
-"Zafirlukast","Zafirlukast",12,21067.5,15500,9363231.1,7167306
 "Procto-Med HC","Hydrocortisone",8,73818.5,115031,4445373.5,7160528.303
-"Pentips","Pen Needle, Diabetic",8,9601.4,21395,3234049.8,7081589
-"Trueplus Insulin Syringe","Syringe-Needle,Insulin,0.5 Ml",12,18469.4,22371,5789305.4,7078917
-"Amlodipine-Atorvastatin","Amlodipine/Atorvastatin",12,25444.2,25230,6759039.1,7031472.5
-"Selenium Sulfide","Selenium Sulfide",12,34302.3,24476,9733229.4,7028974.5
 "Lumigan","Bimatoprost",12,394693.2,347753,7400274.1,6993884.21
 "Desonide","Desonide",12,164889.3,101247,15087317.7,6905181.827
-"Cequa","Cyclosporine",5,20392.2,28834,4428657,6813191
-"Diltiazem 24hr ER (La)","Diltiazem HCl",10,20790.8,39196,3823447.5,6812214
-"Pentasa","Mesalamine",12,14826.4,5815,18472848.7,6785278
-"Nuedexta","Dextromethorphan HBr/Quinidine",12,29147.1,17107,9936669.7,6774068.5
-"Endocet","Oxycodone HCl/Acetaminophen",12,90561.8,35890,29029176.2,6772067
-"Tramadol HCl ER","Tramadol HCl",12,36477.8,35020,6090525.5,6771299
-"Cyclosporine Modified","Cyclosporine, Modified",12,8542.4,8802,6108512.1,6716965
-"Tegretol","Carbamazepine",12,5638.8,3667,9315463.9,6709003
-"Pioglitazone-Metformin","Pioglitazone HCl/Metformin HCl",12,25987.8,12971,10529559.8,6684056
-"Zaleplon","Zaleplon",12,52321.5,45502,6235699.1,6676219
-"Sotalol Af","Sotalol HCl",12,19069.2,16594,7159637,6647349.5
-"Venclexta","Venetoclax",8,10024,18792,3856943.4,6621207
-"Glyxambi","Empagliflozin/Linagliptin",9,14428.7,27116,3208107.8,6610608
-"Piperacillin-Tazobactam","Piperacillin Sodium/Tazobactam",12,18284.4,22422,9406198.3,6603468.554
 "Enoxaparin Sodium","Enoxaparin Sodium",12,349757.1,286115,7171857.5,6540411.936
-"Ramelteon","Ramelteon",5,37038.2,52872,4475819.2,6529272.713
-"Trueplus Insulin Syringe","Syringe And Needle,Insulin,1ml",12,16873.7,22129,5217371.4,6518706.666
-"Jakafi","Ruxolitinib Phosphate",12,8212.7,14041,3775151.3,6515344
-"Rifampin*","Rifampin",10,36901,37703,5060596.3,6467950.5
 "Cefpodoxime Proxetil","Cefpodoxime Proxetil",12,157958.7,330545,3213320.3,6433108.94
-"Trulance","Plecanatide",7,23507.4,41836,3341916.9,6371221.133
-"Ingrezza","Valbenazine Tosylate",7,15678.9,29191,3342694.7,6369804
-"Dapsone*","Dapsone",10,23869,25257,5395714,6337389.5
-"Trospium Chloride ER","Trospium Chloride",12,26870.8,34169,4882425.3,6295828
-"Valganciclovir HCl","Valganciclovir HCl",10,22299.1,31283,3970973.5,6230676
-"Galantamine ER","Galantamine HBr",12,27876.5,24725,6732772.5,6054216
-"Sure Comfort","Syringe-Needle,Insulin,0.5 Ml",12,29697.3,19511,9472973.9,6050674
-"Unithroid","Levothyroxine Sodium",10,11276.4,21946,2779569.4,6035140.5
 "Famciclovir","Famciclovir",12,76807.1,60825,5596805.5,5960707
-"Misoprostol","Misoprostol",12,45851.5,47809,9530193.5,5956086.5
-"Probenecid","Probenecid",12,20706,15132,7793900,5930147
-"Glipizide XL","Glipizide",12,195797.2,33893,51965992.8,5910796
-"Serevent Diskus","Salmeterol Xinafoate",12,28084.2,17314,9797131.7,5901201
-"Entecavir","Entecavir",10,15056.3,23172,3365283.8,5900229
-"Humalog Mix 75-25 Kwikpen","Insulin Lispro Protamin/Lispro",12,55875.8,40527,7680712.1,5875488
-"Acetazolamide ER","Acetazolamide",9,33017.7,33680,4932124.9,5862850
-"Sure Comfort","Syringe And Needle,Insulin,1ml",12,24943.4,19798,7865958.6,5840829
-"Metformin ER Osmotic","Metformin HCl",10,38103,21428,10653319.8,5781059.5
 "Toujeo Solostar","Insulin Glargine,Hum.Rec.Anlog",9,155328.2,163635,5656517.6,5754670.45
 "Shingrix","Varicella-Zoster Ge/As01b/PF",7,2684114,3894337,3861630,5706084.5
-"Veo Insulin Syringe","Syrge-Ndl,Ins 0.3 Ml Half Mark",10,11896.1,13663,4611086.6,5671507
 "Levemir Flextouch","Insulin Detemir",10,428934.7,183748,41690984.2,5662602.5
-"Imbruvica","Ibrutinib",11,17275.7,17100,6749785.8,5656766
-"Pennsaid","Diclofenac Sodium",9,15385.1,8688,6518227.7,5646056
-"Naproxen Sodium","Naproxen Sodium",12,77933.6,39316,7438642.1,5616884.95
 "Ertapenem","Ertapenem Sodium",6,41465.5,56925,5116336.5,5568364.736
-"Sevelamer HCl","Sevelamer HCl",5,8514,10356,4455080.1,5556951
-"Lamictal","Lamotrigine",12,8037.2,5721,7123074.3,5556825.5
-"Alcohol Swab","Alcohol Antiseptic Pads",12,10235.2,16769,3317753.9,5554699.935
-"Trandolapril","Trandolapril",12,22704.6,14826,7419206.2,5529101
-"Chlorzoxazone","Chlorzoxazone",12,24758.9,18123,6133076.5,5518512.5
-"Cefepime HCl*","Cefepime HCl",8,26273.8,31677,5077331.8,5485653.965
 "Ceftriaxone*","Ceftriaxone Sodium",10,153742.1,148645,5724879.1,5454701.687
-"Namzaric","Memantine HCl/Donepezil HCl",9,44616.6,21609,9856267.3,5449736
-"Dronabinol","Dronabinol",12,38771.8,34946,6108510.4,5409152
 "Humulin R","Insulin Regular, Human",12,96248.7,63654,7477225.7,5407143.357
-"Carvedilol ER","Carvedilol Phosphate",7,16643.1,18942,4439113.7,5396718
 "Combigan","Brimonidine Tartrate/Timolol",12,241120.8,144502,8432903.8,5348094.521
-"Dextroamphetamine Sulfate","Dextroamphetamine Sulfate",12,8941.2,9950,5267166,5344840.5
-"Metaxalone","Metaxalone",12,53233.8,24167,8646362.1,5263850.774
-"Chlordiazepoxide HCl","Chlordiazepoxide HCl",12,27385.4,25948,6408253.3,5253972
-"Ethambutol HCl","Ethambutol HCl",12,12403,15217,4017349.4,5226329.5
 "Clarithromycin","Clarithromycin",12,259115.5,168843,6787447.3,5219497
-"Imatinib Mesylate","Imatinib Mesylate",8,12724.5,14613,4364023.3,5211310.974
 "Toujeo Max Solostar","Insulin Glargine,Hum.Rec.Anlog",6,56079,106268,2747091.2,5196220.181
-"Felbamate","Felbamate",12,2437.1,2759,4454583.9,5159231.389
-"Ropinirole ER","Ropinirole HCl",12,14059.5,16392,4293672.2,5130478.5
-"Triumeq","Abacavir/Dolutegravir/Lamivudi",10,20974.4,18047,5625193.1,5097879
-"Selegiline HCl","Selegiline HCl",12,13235.4,11726,5102626,5087920
-"Nubeqa","Darolutamide",5,3313.4,7174,2268036.6,5083379
 "Soliqua 100-33","Insulin Glargine/Lixisenatide",7,29995.4,59571,2426966,5067178.3
-"Easy Comfort Pen Needles","Pen Needle, Diabetic",11,15680.1,12689,6240980.3,5006690.333
-"Elmiron","Pentosan Polysulfate Sodium",12,19195.5,9394,10061037.3,4903134
-"Piroxicam","Piroxicam",12,35942.7,17658,5830057.8,4902500.046
-"Humulin 70/30 Kwikpen","Insulin NPh Hum/Reg Insulin Hm",10,28423.8,36266,3634798.9,4883385
-"Nicotrol","Nicotine",12,14975.8,14410,5604266.5,4827018
-"Nucynta","Tapentadol HCl",11,19320.4,10048,4931509.9,4825523
-"Corlanor","IVabradine HCl",9,7285,12415,2700828.8,4756735
-"Loxapine","Loxapine Succinate",12,10790.6,8065,5728126.1,4750869
-"Droplet Insulin Syringe","Syrge-Ndl,Ins 0.5 Ml Half Mark",5,7706.6,8783,4122979.4,4736376
-"Pro Comfort Alcohol Pads","Alcohol Antiseptic Pads",8,17050.4,9749,7797700.5,4725596
-"Edarbi","Azilsartan Medoxomil",12,14098.8,17111,3297165.6,4715651
-"Propylthiouracil","Propylthiouracil",12,11023.2,8753,6057384.3,4707553
-"Armodafinil","Armodafinil",8,19323.8,21855,3772607.5,4706360.7
-"Genvoya","Elviteg/Cob/Emtri/Tenof Alafen",9,20820.2,16335,5588970,4700088
 "Neomycin-Polymyxin-Dexameth","Neomycin/Polymyxin B/Dexametha",12,513294.5,774697,3118739.2,4660639.36
-"Bystolic","Nebivolol HCl",12,297200.8,26388,80583718.7,4656739.7
-"Dantrolene Sodium","Dantrolene Sodium",12,6358.8,6406,4750887.3,4649980
-"Insulin Lispro","Insulin Lispro",5,59766.2,73705,3745467.8,4641502.635
 "Levalbuterol Tartrate HFA","Levalbuterol Tartrate",8,56290.8,93036,2832967.9,4624866.3
-"Tegretol XR","Carbamazepine",12,11369.7,4124,9253385.8,4599154.75
-"Quinapril HCl","Quinapril HCl",12,221908.7,44327,79496102.4,4593231.21
-"Vancomycin HCl-0.9% NaCl","Vancomycin/0.9 % Sod Chloride",8,1790.4,1141,5110645.8,4591316
-"Desipramine HCl","Desipramine HCl",12,17271.5,12471,5983288.1,4579848.5
-"Prempro","Estrogen,Con/M-Progest Acet",12,34727.1,19244,7503885.9,4558698
-"Guanfacine HCl ER","Guanfacine HCl",10,8229.1,18854,1844275.8,4542519
 "Alphagan P","Brimonidine Tartrate",12,177072.5,118782,6836496.5,4469897.681
-"Rinvoq","Upadacitinib",5,11376.4,21424,2209108,4463287
-"Gavilyte-N","Sodium Chloride/NaHCO3/KCl/PEG",12,159279.8,1053,666291065.5,4398700
-"Revlimid","Lenalidomide",12,35745.2,36967,5077986.1,4395154
-"Humulin N Kwikpen","Insulin NPh Human Isophane",10,31791.2,45050,2998737,4386364
-"Dovato","Dolutegravir Sodium/Lamivudine",5,8746.2,15932,2230830.6,4383360
-"Prednisolone","Prednisolone",12,29745.4,20337,5983119.9,4352844.487
 "Dulera","Mometasone/Formoterol",10,123876.2,70485,6865234.2,4346266.9
-"Levocarnitine","Levocarnitine",11,5115.7,5259,4512808.1,4336318
 "Lidocaine HCl*","Lidocaine HCl",10,144170.8,72152,9483370,4331318.627
-"Relistor*","Methylnaltrexone Bromide",10,9976.8,15141,2148055.4,4296684.8
 "Oseltamivir Phosphate","Oseltamivir Phosphate",8,632768.2,380069,7037293.2,4243697.5
-"Cetirizine HCl","Cetirizine HCl",12,5644.4,5898,4167833,4240052.421
-"Ztlido","Lidocaine",6,13098.5,22430,2180540,4230191
-"Veltassa","Patiromer Calcium Sorbitex",8,26061.8,43162,2885659.1,4213938.6
 "Terconazole","Terconazole",12,90555.6,84152,4487163.6,4208958.5
-"Itraconazole","Itraconazole",12,11397,13522,3129292.1,4197242
-"Levofloxacin-D5W","Levofloxacin In Dextrose 5 %",10,6339.2,3788,4788711.6,4183977.5
-"Hizentra","Immun Glob G(IgG)/Pro/IgA 0-50",12,1049.8,1651,2553692.8,4175045
-"Crestor","Rosuvastatin Calcium",12,730868.2,15283,163149382.3,4170907.5
 "Testosterone Cypionate","Testosterone Cypionate",12,168986.4,242810,2742425.1,4153566.523
-"Periogard","Chlorhexidine Gluconate",12,5136.4,5967,4819668.4,4118964
-"Omeprazole-Sodium Bicarbonate","Omeprazole/Sodium Bicarbonate",12,15740.8,16212,3014052.6,4092664
 "Estradiol (Twice Weekly)","Estradiol",8,52782.9,70749,3018933.2,4075401
 "Benzonatate","Benzonatate",12,39583.6,92427,1870974,4040709
-"Tenofovir Disoproxil Fumarate","Tenofovir Disoproxil Fumarate",6,12953.4,15480,3386709.2,3999980
-"Novolin N","Insulin NPh Human Isophane",12,71447.7,31731,8305115,3985847.61
-"Methazolamide","Methazolamide",12,11894.1,10447,4129301.4,3973879.5
-"Verapamil ER PM","Verapamil HCl",12,18870.2,13441,5123906.4,3969304
-"Riluzole","Riluzole",11,6378.4,9582,2317541,3941083.5
-"Adempas","Riociguat",11,3308.5,4980,2427122.6,3928942
-"Isentress","Raltegravir Potassium",12,23669.5,7475,12495033.2,3910511
-"Veo Insulin Syringe","Syring-Needl,Disp,Insul,0.3 Ml",10,12289.8,10974,4052724.5,3889471
-"Paroxetine ER","Paroxetine HCl",12,21358.6,14854,5143133.9,3879211
-"Lialda","Mesalamine",12,23538.2,5744,12063047.1,3878820
-"Vemlidy","Tenofovir Alafenamide",8,8639.9,13612,2372943.9,3855444
-"Cefazolin Sodium*","Cefazolin Sodium",10,14124.7,19643,3682314.1,3851507.146
 "Polymyxin B Sul-Trimethoprim","Polymyxin B Sulf/Trimethoprim",12,284926.2,334644,3359227.1,3826659.39
 "Repatha Sureclick","Evolocumab",9,80618.6,229666,1294041.3,3813156
-"Toprol XL","Metoprolol Succinate",12,156773.8,10147,51658640.9,3758935.5
 "Fluocinolone Acetonide Oil","Fluocinolone Acetonide Oil",12,57841.9,110490,1692335.8,3718829.214
-"Mitigare","Colchicine",8,23736.5,27237,2646766.2,3708339
-"Novolin 70-30 Flexpen","Insulin NPh Hum/Reg Insulin Hm",6,19150.8,32324,1991325.7,3700328
-"Carafate","Sucralfate",12,97772.7,1828,170305158.4,3680623
-"Nuplazid","Pimavanserin Tartrate",8,12584.4,15984,3071113.8,3680532.5
 "Stiolto Respimat","Tiotropium Br/Olodaterol HCl",9,97170.7,155872,2119700.4,3652844.99
-"Azelaic Acid","Azelaic Acid",6,24269.8,37203,2310538.1,3646722
 "Combivent Respimat","Ipratropium/Albuterol Sulfate",12,253239.8,176341,4918028.1,3645657.007
-"Lynparza","Olaparib",9,3545.4,5974,2329150,3583679
-"Mercaptopurine","Mercaptopurine",12,13125.3,10603,4308380,3563712.5
 "Yuvafem","Estradiol",8,55536.5,60394,2897984.8,3557730
 "Atrovent HFA","Ipratropium Bromide",12,89190.2,68099,4828912.3,3529490.9
-"Edarbyclor","Azilsartan Med/Chlorthalidone",12,12224.2,13422,2775360.6,3515518
-"Onglyza","Saxagliptin HCl",12,77238.8,15683,17704070.4,3507387.499
-"Motegrity","Prucalopride Succinate",5,12913.4,19413,2088551.2,3500608.5
-"Haloperidol Lactate*","Haloperidol Lactate",10,36482.5,35038,4156971.5,3482426.68
-"Norethindrone Acetate","Norethindrone Acetate",12,11920.2,15646,2262641.3,3470901.5
-"Proctozone-HC","Hydrocortisone",12,144622.2,44746,11289984.6,3429319.653
-"Sf 5000 Plus","Fluoride (Sodium)",10,32921,26123,4097492.9,3402812.67
-"Pimecrolimus","Pimecrolimus",6,25673.2,35813,2368871.4,3397069
-"Dutasteride-Tamsulosin","Dutasteride/Tamsulosin HCl",9,17026,12790,3570448.1,3394709
 "Imiquimod","Imiquimod",12,93292.3,124101,2414583,3377217.75
-"Diclofenac Sodium-Misoprostol","Diclofenac Sodium/Misoprostol",12,20001.2,11137,5486948.4,3374113
-"Ec-Naproxen","Naproxen",5,18989.4,25049,2527503.8,3371695
-"Juluca","Dolutegravir/Rilpivirine",7,7672.3,11501,2109184.1,3368777
-"Desoximetasone","Desoximetasone",12,77084.7,27754,8505765,3356839
-"Tirosint","Levothyroxine Sodium",10,11134.8,12698,2367698.5,3347429
-"Aptiom","Eslicarbazepine Acetate",10,6704.2,8348,2402535,3344608
-"Carbidopa","Carbidopa",10,3651.5,4842,2386393.9,3343599
-"Neupro","Rotigotine",12,17150.1,15325,3412681.9,3315743
-"Metronidazole","Metronidazole/Sodium Chloride",12,1605,1228,4200755.3,3312316
 "Olopatadine HCl*","Olopatadine HCl",10,219210.1,147406,3542697.1,3262726.834
-"Prezcobix","Darunavir/Cobicistat",9,13369.8,11710,3359421.1,3242682
-"Anagrelide HCl","Anagrelide HCl",12,7008.4,5658,4104490.4,3206414
-"Odefsey","Emtricitab/Rilpiviri/Tenof Ala",8,10723.8,10542,3012031.9,3185609
-"Comfort Ez Insulin Syringe","Syringe And Needle,Insulin,1ml",10,9144.2,7484,3914274.8,3177042
-"Prednisolone Sodium Phosphate*","Prednisolone Sodium Phosphate",10,18476.3,21651,2428230.9,3159550.001
-"Risperidone ODT","Risperidone",12,14100.8,12568,3040721.1,3089080.5
-"Klor-Con 8","Potassium Chloride",11,46680.2,13340,13514330.6,3064599
-"Klor-Con","Potassium Chloride",9,20752.8,24541,2910100.8,3060206
-"Xeljanz XR","Tofacitinib Citrate",8,12155,12497,2605206,3054923
 "Clonidine","Clonidine",12,103621.8,102502,2674363.4,3047773.236
-"Humalog Kwikpen U-200","Insulin Lispro",9,26911.2,40611,1825654.8,3042936
-"Daptomycin","Daptomycin",8,15772.8,29611,1984440.3,3029324.001
-"Denta 5000 Plus","Fluoride (Sodium)",10,24146.4,22627,3337667.3,2983984.9
-"Xeljanz","Tofacitinib Citrate",12,7499.8,6936,2902270.7,2976801
-"Topamax","Topiramate",12,5400.3,3265,4433642.1,2973247.5
-"Ritonavir","Ritonavir",6,13513.7,7866,4163197.3,2972578
-"Ethosuximide","Ethosuximide",12,1904.6,2145,2371242.9,2966916
 "Moxifloxacin","Moxifloxacin HCl",7,385772.4,596568,1896459.7,2962650.328
-"Matzim La","Diltiazem HCl",12,16366.5,16935,3200642.4,2948797
-"Bromocriptine Mesylate","Bromocriptine Mesylate",12,8471.4,6713,3785953.6,2931297.67
-"Symtuza","Darunavir/Cob/Emtri/Tenof Alaf",6,8652.2,10884,2160412.7,2909704
 "Simbrinza","Brinzolamide/Brimonidine Tart",11,59750.9,68879,2505991.4,2908377.23
-"Sodium Bicarbonate","Sodium Bicarbonate",12,2648.9,2122,4687579.7,2905909.53
-"Butalbital-Aspirin-Caffeine","Butalbital/Aspirin/Caffeine",12,17792.4,13321,3785660.4,2905546
-"Posaconazole","Posaconazole",5,5592.4,8353,1823000.8,2905373
-"Sirolimus","Sirolimus",10,5095.1,7218,1963466.3,2866252.5
-"Trueplus Insulin Syringe","Syring-Needl,Disp,Insul,0.3 Ml",12,7166,10217,1955470,2836212
-"Dextroamphetamine Sulfate ER","Dextroamphetamine Sulfate",12,7464.3,6750,3299732.8,2805918
-"Estradiol-Norethindrone Acetat","Estradiol/Norethindrone Acet",12,11527,12551,2330297.7,2802396
-"Triazolam","Triazolam",12,33602.9,34736,4088540.6,2801828.5
-"Amiloride-Hydrochlorothiazide","Amiloride/Hydrochlorothiazide",12,17262.6,9760,4818978,2800091.5
-"Butalb-Acetaminoph-Caff-Codein","Butalbit/Acetamin/Caff/Codeine",11,7706.6,7352,2572430.2,2795825
-"Incontrol Pen Needle","Pen Needle, Diabetic",12,7026.4,8584,2238289.1,2790680
 "Alvesco","Ciclesonide",10,37379.8,88457,1353923,2784180.3
-"Verzenio","Abemaciclib",7,4218.3,8217,1246338.3,2751542
-"Novolin R","Insulin Regular, Human",12,89016,34189,5949463.1,2730921.925
-"Metoprolol-Hydrochlorothiazide","Metoprolol/Hydrochlorothiazide",12,12989.7,9474,3126223,2730292.5
-"Norethindrone","Norethindrone",12,7690.2,13966,1313130.8,2711976
-"Humulin R U-500 Kwikpen","Insulin Regular, Human",8,19782.6,26073,1977509.5,2711410
-"Trileptal","Oxcarbazepine",12,2468.9,1611,3789543.1,2695756.5
-"Ibrance","Palbociclib",9,17665.7,16015,2553239.1,2683726
-"Fiasp Flextouch","Insulin Aspart (Niacinamide)",6,15434.7,35877,1167212.9,2676308.473
-"Alprazolam ER","Alprazolam",12,9312.2,10625,2136527.2,2674313
-"Generlac","Lactulose",12,60577.5,1356,171666246.5,2666289.5
-"Thioridazine HCl","Thioridazine HCl",12,9754.8,3595,7130994.1,2660378.35
-"Depakote ER","Divalproex Sodium",12,5379.2,3106,4474006,2660339
-"Estazolam","Estazolam",12,14023.3,13042,2200229,2636869.5
-"Pindolol","Pindolol",12,10737.2,5745,4941872.3,2630800.5
 "Ampicillin Trihydrate","Ampicillin Trihydrate",12,102017.6,67296,4660799.6,2610608
-"Voriconazole*","Voriconazole",10,11314.9,11795,2053530,2609128.45
-"Keppra XR","Levetiracetam",12,3002.9,2054,3171604.9,2595505
-"Budesonide ER","Budesonide",6,7314,8020,2233297.5,2584499.608
-"Trifluoperazine HCl","Trifluoperazine HCl",12,11130,5910,5319633.5,2578380
 "Linezolid","Linezolid",9,51077.2,88286,1520332,2560403
-"Prezista","Darunavir",5,12244.2,8166,4474047,2559945
-"Fycompa","Perampanel",10,4268.7,6343,1510889.7,2558244.5
-"Arikayce","Amikacin Liposomal/Neb.Accessr",6,1560.3,2208,1720127.2,2550116.8
-"Nucynta ER","Tapentadol HCl",11,14569.8,6559,3220737.3,2547097
-"Levalbuterol HCl","Levalbuterol HCl",12,8162.4,6922,3242837.4,2545351.36
-"Advocate Pen Needles","Pen Needle, Diabetic",12,5619.8,7160,1998119.1,2528681.999
 "Tobramycin-Dexamethasone","Tobramycin/Dexamethasone",12,349799.6,367158,2407397.4,2520339.868
-"Alogliptin","Alogliptin Benzoate",8,12599.2,17642,1838016.6,2516053.5
-"Depakote","Divalproex Sodium",12,4033.7,2580,3982785.8,2512283
-"Travoprost","Travoprost",5,121427,123672,2213550.8,2506159.724
 "Victoza 2-Pak","Liraglutide",12,90920,83777,2606198.9,2504753.6
-"Jentadueto XR","Linagliptin/Metformin HCl",8,5330.1,7327,1688444.9,2458217
-"Ultracare Pen Needle","Pen Needle, Diabetic",6,11304.2,6642,4321886.2,2435124
-"Pacerone","Amiodarone HCl",12,41944,17680,6438319.4,2421475.5
-"Tetracycline HCl","Tetracycline HCl",11,27462.2,38577,1952178.6,2417022.16
-"Droplet Insulin Syringe","Syring-Needl,Disp,Insul,0.3 Ml",5,4315.8,5170,2096225.2,2415655
-"Alecensa","Alectinib HCl",9,860.2,1459,1292988.6,2412878
-"Oxazepam","Oxazepam",12,12808.3,6587,4300472.5,2409981
 "Neomycin-Polymyxin-HC*","Neomycin/Polymyxin B/Hydrocort",10,208646.3,207059,2429638.9,2400540.95
-"Opsumit","Macitentan",11,5882.3,9031,1469250.7,2399203
-"Zubsolv","Buprenorphine HCl/Naloxone HCl",11,4499.3,5772,1602063.9,2397087
-"Diovan","Valsartan",12,269300,6468,68741384.2,2390123.5
-"Donepezil HCl ODT","Donepezil HCl",12,13354.2,12277,2359087.3,2381559
-"Neurontin","Gabapentin",12,4669.4,2533,4244178.9,2380354
-"Inlyta","Axitinib",12,2427.4,4739,1059764.9,2379871
-"Tranylcypromine Sulfate","Tranylcypromine Sulfate",12,1879.5,1773,2327826.4,2367926.5
-"Orphenadrine Citrate ER","Orphenadrine Citrate",10,34967.6,25044,3528123.7,2351129
-"Sure Comfort","Syring-Needl,Disp,Insul,0.3 Ml",12,10289.3,8687,2825162.2,2337037
-"Adderall XR","Dextroamphetamine/Amphetamine",12,7269,14292,1663736.8,2322314
 "Scopolamine","Scopolamine",7,97086.4,200055,1132316.9,2306058.786
-"Probenecid-Colchicine","Probenecid/Colchicine",12,14605,8789,3110167.6,2304492.5
-"Clindamycin (Pediatric)","Clindamycin Palmitate HCl",8,5340.1,4332,2927231.6,2299089
-"Uptravi","Selexipag",8,2723.8,3727,1663755.5,2296260
-"Moexipril HCl","Moexipril HCl",12,9579,5997,3354344.5,2288715.5
-"Hyoscyamine Sulfate*","Hyoscyamine Sulfate",10,21257.6,16816,2803933.4,2279874.75
-"Viberzi","Eluxadoline",8,9334.4,7023,2524478.4,2274890
-"Welchol","Colesevelam HCl",12,87521.7,2778,63019198.8,2274274
-"Tasigna","Nilotinib HCl",12,3290,2961,2575224.7,2268289
-"Afrezza","Insulin Regular, Human",8,1315.1,2623,1030454.8,2260531
 "Neomycin-Polymyxin-Hydrocort","Neomycin/Polymyxin B/Hydrocort",12,228590.1,192258,2710439.7,2258926.7
-"Alclometasone Dipropionate","Alclometasone Dipropionate",12,34594.2,35440,2344749.7,2247473
-"Clozapine ODT","Clozapine",12,2743.2,2860,2302471.7,2240309.701
-"Darifenacin ER","Darifenacin Hydrobromide",8,12745.8,9984,2503341.6,2236772.6
-"Depakote Sprinkle","Divalproex Sodium",12,1200.8,1170,2425798.2,2229605.5
-"Ampicillin Sodium*","Ampicillin Sodium",10,2997.3,3864,2626177.9,2219359.337
-"Oxymorphone HCl ER","Oxymorphone HCl",12,13424.7,3885,4833547.9,2200619
 "Fluorometholone","Fluorometholone",12,155054.4,168211,2078668.5,2199971
-"Leucovorin Calcium*","Leucovorin Calcium",10,22243.5,26004,1878754.7,2182700.636
-"Comfort Ez Insulin Syringe","Syringe-Needle,Insulin,0.5 Ml",10,5929.1,5718,2299515.5,2172847
-"Tagrisso","Osimertinib Mesylate",9,5333.6,9387,1120423.3,2163426
-"Invokamet","Canagliflozin/Metformin HCl",10,11347.6,4565,4437411.5,2161038
-"Promethazine-DM","Promethazine/Dextromethorphan",12,4706.3,7724,1216773.7,2132937.898
-"Novolog Mix 70-30","Insulin Aspart Prot/Insuln Asp",12,43322.4,14231,5927789.1,2132635
-"Fanapt","Iloperidone",11,6425.4,4164,2231336.2,2109599.388
-"Ampicillin-Sulbactam*","Ampicillin Sod/Sulbactam Sod",6,3409.5,3883,2232009,2100185.841
-"Trikafta","Elexacaftor/Tezacaftor/IVacaft",5,2063,2534,1564656.2,2097534
-"Lipitor","Atorvastatin Calcium",12,120117.3,7792,19017570.5,2097097.5
-"Gralise","Gabapentin",12,7506.9,4265,2994410.7,2094953
-"Vumerity","Diroximel Fumarate",5,1405.8,2304,1122254,2077828
-"Sucraid","Sacrosidase",10,558,1656,689648,2075152
-"Insulin Syringe","Syrge-Ndl,Ins 0.3 Ml Half Mark",12,10393.2,6062,3402722.1,2070553
-"Everolimus","Everolimus",5,3961.2,6726,1157749.4,2061310.976
-"Aliskiren","Aliskiren Hemifumarate",5,7810.4,6966,2120694.2,2054851.5
-"Horizant","Gabapentin Enacarbil",11,6190.9,6276,1613501,2034257
-"Humalog Mix 75-25","Insulin Lispro Protamin/Lispro",12,30413,12749,4447553.4,2030500
-"Flunisolide","Flunisolide",12,33061.8,21192,2801539.1,2026303.833
-"Daliresp","Roflumilast",11,58252.5,14896,10592522.4,2020683.5
-"Clobetasol Emollient","Clobetasol Propionate/Emoll",12,26655.2,23163,2440407.6,2016421
-"Cefepime","Cefepime In Iso-Osm Dextrose",12,1602.7,1061,2436347.9,2007388
-"Qvar Redihaler","Beclomethasone Dipropionate",6,57627.2,48670,2300093.6,2002292.129
 "Ibandronate Sodium*","Ibandronate Sodium",10,200578.9,239104,1468310.1,1963941.5
-"Percocet","Oxycodone HCl/Acetaminophen",12,3874.9,2338,2722912.9,1963172
-"Hydrocodone-Ibuprofen","Hydrocodone/Ibuprofen",12,44529.4,7748,7800369,1959917.5
-"Prevident 5000 Dry Mouth","Fluoride (Sodium)",7,11395.6,9883,2272977.2,1945297
-"Orenitram ER","Treprostinil Diolamine",10,942.2,1011,1635951.1,1940539
-"Lamivudine","Lamivudine",12,7879.3,4096,3002113,1922831.5
-"Phenelzine Sulfate","Phenelzine Sulfate",12,2342.9,2029,2151020.9,1913865.5
-"Tetrabenazine","Tetrabenazine",9,2869,3523,1628304.1,1910918
-"Carbatrol","Carbamazepine",12,3674,1707,3565010.5,1904477
-"Cymbalta","Duloxetine HCl",12,181110.4,4693,47242324.7,1900093
 "Atovaquone-Proguanil HCl","Atovaquone/Proguanil HCl",12,41673.8,61477,1280453.2,1892680
-"Disopyramide Phosphate","Disopyramide Phosphate",12,3654.2,2517,2510751.5,1874389
-"Easy Touch","Syringe-Needle,Insulin,0.5 Ml",12,10848.8,5964,3487766.4,1861698
-"Prevident 5000 Sensitive","Sodium Fluoride/Potassium Nit",12,11178.1,8849,2214381,1850609.6
-"Lenvima","Lenvatinib Mesylate",9,3765.4,7904,895736.6,1842278
 "Praluent Pen","Alirocumab",9,45839.4,106365,749380.2,1840124.32
-"Vyndamax","Tafamidis",5,3704.2,7589,857723.2,1835099
-"Thiothixene","Thiothixene",12,10250.6,3213,5637409.2,1830536
-"Dipyridamole","Dipyridamole",12,13800.6,3216,5960007.5,1814367
-"Kombiglyze XR","Saxagliptin HCl/Metformin HCl",12,21756.6,5089,7005946.7,1812363
-"Ambrisentan","Ambrisentan",5,6014.2,6456,1518809.4,1807659
-"Lamotrigine ODT","Lamotrigine",9,3094.7,4174,1087534.8,1804643
-"Perindopril Erbumine","Perindopril Erbumine",12,5792,5136,1926514.9,1800994.5
-"Xanax","Alprazolam",12,5180.2,3445,2336969.3,1800235
-"Dexmethylphenidate HCl ER","Dexmethylphenidate HCl",11,3811.2,9197,831385.4,1795648
 "Naloxone HCl*","Naloxone HCl",7,197012.6,744446,472070.2,1788141.85
-"Mupirocin","Mupirocin Calcium",11,88920.5,43438,3251976,1785926.993
-"Norvasc","Amlodipine Besylate",12,10765.1,5684,3041222.4,1782218
-"Paroxetine Cr","Paroxetine HCl",12,10450.6,9344,2188834.1,1778301
-"Dexmethylphenidate HCl","Dexmethylphenidate HCl",12,3247.4,6669,979987.9,1772181
-"Acetylcysteine*","Acetylcysteine",10,6300.9,4830,1921066.9,1767686
-"Oxtellar XR","Oxcarbazepine",11,2210.3,2887,1124301,1761128
-"Fetzima","Levomilnacipran HCl",11,9468.4,6280,2093885.3,1757211
-"Esbriet","Pirfenidone",9,7123,1834,10042902.5,1749373
-"Sulfacetamide Sodium*","Sulfacetamide Sodium",10,51509.7,23854,2402263.9,1738512.3
-"Gocovri","Amantadine HCl",7,3046,4464,1102467.6,1727363
-"IVermectin*","IVermectin",9,65479.1,40953,1527796.4,1727359.27
-"Oxiconazole Nitrate","Oxiconazole Nitrate",8,7222.2,6339,1889072.8,1722774
-"Clemastine Fumarate","Clemastine Fumarate",12,2328.8,1746,737515.8,1710379
-"Acitretin","Acitretin",11,8325.1,9207,1384699.1,1693014
-"Erythromycin Ethylsuccinate","Erythromycin Ethylsuccinate",12,3457.3,1861,1047141.2,1677028.5
-"Topiramate ER","Topiramate",10,2283.5,6210,576701.9,1660461.8
-"Pancreaze","Lipase/Protease/Amylase",9,3298,2095,2910289.4,1659650
-"Abacavir","Abacavir Sulfate",12,6540.8,2809,3064525.8,1648593
-"Pramipexole ER","Pramipexole Di-HCl",9,5223.3,5892,1397659.6,1635630
-"Tiagabine HCl","Tiagabine HCl",12,3071.6,2484,1483302.1,1633612.75
-"Clinpro 5000","Fluoride (Sodium)",10,2544.6,5833,700395.8,1622465
-"Diflorasone Diacetate","Diflorasone Diacetate",12,8421,6653,1450323.8,1614697.1
-"Chlordiazepoxide-Clidinium","Chlordiazepoxide/Clidinium Br",7,4121.9,5862,805984.9,1612378
-"Cosopt PF","Dorzolamide/Timolol/PF",12,10445.5,4123,3253572.3,1607190
-"Bevespi Aerosphere","Glycopyrrolate/Formoterol Fum",7,32596.1,28707,1605808.6,1606388.1
-"Steglatro","Ertugliflozin Pidolate",6,7994.7,11552,1089047.2,1592164.266
-"Erythromycin","Erythromycin Base In Ethanol",10,17402.2,15092,2066137.6,1574529.5
-"Pomalyst","Pomalidomide",11,8943.3,12739,1103296.3,1569928
-"Apriso","Mesalamine",12,19268.2,1717,14840939.6,1549402
 "Risedronate Sodium","Risedronate Sodium",10,65241.6,71989,1151007.2,1541214.255
-"Isoniazid","Isoniazid",12,14173.7,11875,1831572.2,1538521
-"Viibryd","Vilazodone HCl",12,45851.7,8233,9586178,1530074.5
-"Fluvastatin Sodium","Fluvastatin Sodium",12,7441.9,6093,1784470.2,1506614
-"Imipenem-Cilastatin Sodium","Imipenem/Cilastatin Sodium",12,3363.4,1911,3076705,1498205.9
-"Lamictal XR","Lamotrigine",12,2910.8,1940,1824577.8,1494902
 "Buprenorphine","Buprenorphine",7,45375.3,74893,840060.1,1493627.414
-"Pyridostigmine Bromide ER","Pyridostigmine Bromide",9,3507.1,4169,1145914.1,1483006
-"Tecfidera","Dimethyl Fumarate",11,12699.7,3154,6184545.8,1472427
-"Estradiol (Once Weekly)","Estradiol",8,44377.9,47206,1264719.5,1457151.12
-"Benicar","Olmesartan Medoxomil",12,138852.7,4500,33659516.6,1456816
-"Oxaprozin","Oxaprozin",12,16990.5,5099,4241894.3,1439825
-"Deferasirox","Deferasirox",5,2663.2,3436,1008642.8,1425671.997
-"Naftifine HCl","Naftifine HCl",9,7240.2,8135,1026930.3,1414027.4
-"Omnipod Dash Pods (Gen 4)","Insulin Pump Cart,Cont Inf,Bt",5,14556.8,15180,1367984.4,1411076.889
-"Etodolac ER","Etodolac",12,18011.8,8445,2953805.7,1406136
-"Mavyret","Glecaprevir/Pibrentasvir",7,10912.3,8771,1844144.1,1402253
-"Telmisartan-Amlodipine","Telmisartan/Amlodipine",10,3051.9,5415,755265.4,1399356
-"Easy-Touch Insulin Syringe","Syringe And Needle,Insulin,1ml",12,6409.2,4678,2066630.7,1394824
-"Codeine Sulfate","Codeine Sulfate",12,6752.5,3569,2549556.9,1391592.5
-"Dentagel","Fluoride (Sodium)",10,7328,8536,1100838.2,1388641
-"Firvanq","Vancomycin HCl",5,8874.6,4351,3108967.3,1388171.75
-"Ethacrynic Acid","Ethacrynic Acid",8,3670.6,3813,1088599.4,1379657
-"Inbrija","Levodopa",5,2415,2486,1220770.4,1378150
-"Promacta","Eltrombopag Olamine",11,3713.8,5708,824957.9,1373284
-"Effexor XR","Venlafaxine HCl",12,6545,2967,2565602,1372085
-"Proctosol-HC","Hydrocortisone",12,94138.1,23335,5509764.6,1355688.958
-"Zioptan","Tafluprost/PF",12,15923.7,8185,2542816.9,1351869
-"Dropsafe Pen Needle","Pen Needle, Diabetic, Safety",5,3886.2,4370,1169446,1349812
-"Amitiza","Lubiprostone",12,127031.7,5736,33825017.2,1348649
 "Rhopressa","Netarsudil Mesylate",6,68618,89044,950552.1,1337228.27
-"Tafinlar","Dabrafenib Mesylate",9,1490.5,2120,875241.2,1324197
-"Envarsus XR","Tacrolimus",8,1116.8,2385,576477.5,1308906
-"Lexapro","Escitalopram Oxalate",12,55923.5,4373,6621667.8,1308181
 "Tobramycin*","Tobramycin",8,194560.1,195319,1360958.5,1302654.07
-"Flurbiprofen","Flurbiprofen",12,10884.9,7463,1875368.1,1288545
-"Nifedipine","Nifedipine",12,6530.3,4898,1672832,1287343.6
-"Heparin Sodium","Heparin Sodium,Porcine",12,22943.7,13864,2432966.7,1287287.224
-"Kisqali","Ribociclib Succinate",7,1849,4543,543094.3,1286407
-"Hydrocortisone Valerate","Hydrocortisone Valerate",12,61419.8,15376,5068212.2,1282178.25
-"Invokamet XR","Canagliflozin/Metformin HCl",8,4593.8,3060,1647713.3,1279411
-"Paricalcitol*","Paricalcitol",10,14232.6,6778,2001826.1,1274888.414
-"Cabometyx","Cabozantinib S-Malate",8,4554.5,8210,680682.6,1263204
-"Dotti","Estradiol",5,16128.6,24304,779977.3,1262708
-"Fosinopril-Hydrochlorothiazide","Fosinopril/Hydrochlorothiazide",12,4921.5,3301,1575385.9,1254795
-"Fluvoxamine Maleate ER","Fluvoxamine Maleate",11,3069.2,3459,1000184.3,1244192
-"Prenatal Vitamin Plus Low Iron","PNV,Calcium 72/Iron/Folic Acid",10,6976,8136,1001188.8,1243202
-"Klonopin","Clonazepam",12,2496.7,2481,1156761.7,1240128
-"Sure Comfort","Pen Needle, Diabetic",12,18115.7,3783,6312153.8,1238096
-"Lorazepam Intensol","Lorazepam",12,23054.4,28862,1005161.5,1233702.675
-"Tranexamic Acid*","Tranexamic Acid",10,8017.6,19495,593172.1,1225574.847
-"Dicloxacillin Sodium","Dicloxacillin Sodium",12,31606.6,16180,2129778.7,1223973
-"Cabergoline","Cabergoline",12,13729.8,19362,830815.7,1218959.236
-"Disulfiram","Disulfiram",12,8105.9,8729,883774.9,1206191
-"Pifeltro","Doravirine",6,2679.5,4371,685459.7,1198958
 "Humira(Cf) Pen","Adalimumab",6,41768,61474,744932.5,1182524.4
-"Sprycel","Dasatinib",12,4326.2,5120,1033156.1,1174244.998
-"Hydrocortisone Butyrate","Hydrocortisone Butyrate",12,15648.5,6139,2021425,1167292
-"Klor-Con M15","Potassium Chloride",9,2959,3702,765830.1,1165859
-"Junel Fe","Norethindrone-E.Estradiol-Iron",12,5219.5,5064,1010451.4,1164238
 "Vyzulta","Latanoprostene Bunod",7,32672.1,69308,520324,1163823.668
-"Bydureon Bcise","Exenatide Microspheres",7,43583.3,45857,1028542.8,1163466.95
-"Diphenhydramine HCl*","Diphenhydramine HCl",10,15711.3,18579,1225035.6,1162081.751
-"Enbrel Sureclick","Etanercept",10,31701.1,34287,1029914.4,1133801.14
-"Sure Comfort Alcohol","Alcohol Antiseptic Pads",12,5500.8,3392,1960054.7,1132452
-"Opium Tincture","Opium Tincture",12,2797.7,2582,1267606,1128165.92
-"Loteprednol Etabonate","Loteprednol Etabonate",5,59299.2,91483,729887.8,1125604
-"Fluvastatin ER","Fluvastatin Sodium",9,4317.2,4086,976060,1122330
-"Asa-Butalb-Caffeine-Codeine","Codeine/Butalbital/Asa/Caffein",5,1704.8,2507,838924.4,1119648
-"Indomethacin ER","Indomethacin",10,11433.2,8107,1327491.6,1118175
-"Zileuton ER","Zileuton",7,889.3,1290,574402.6,1116189
-"Wellbutrin XL","Bupropion HCl",12,4217.8,3251,1313913.8,1112392
-"Hysingla ER","Hydrocodone Bitartrate",9,9309.9,5184,1467927.5,1112013
-"Kapspargo Sprinkle","Metoprolol Succinate",6,8115.2,12241,699463.2,1109712
-"Celebrex","Celecoxib",12,223543.8,3642,45181104.9,1105824
-"Aubagio","Teriflunomide",12,7569.7,6565,1843949.1,1103240
-"Lovaza","Omega-3 Acid Ethyl Esters",9,95060.4,1381,79167010.8,1082932
-"Prevident 5000 Plus","Fluoride (Sodium)",10,7718.8,8640,1014426.5,1069652.3
 "Epinephrine","Epinephrine",12,169333.9,413026,406636.6,1066944.389
-"Clonidine HCl ER","Clonidine HCl",11,1837.3,2806,584031.9,1066024
-"Levonorgestrel-Eth Estradiol","Levonorgestrel/Ethin.Estradiol",9,3729.4,3969,869595.5,1065846
-"Rocklatan","Netarsudil Mesylat/Latanoprost",5,43729,67255,638919.1,1064815.667
-"Sprintec","Norgestimate-Ethinyl Estradiol",12,7152.1,4913,1346405.2,1064432
-"Cozaar","Losartan Potassium",10,5740.6,3141,2466665.3,1062849
-"Xultophy 100-3.6","Insulin Degludec/Liraglutide",7,9813.1,12906,746711.6,1056149
-"Naratriptan HCl","Naratriptan HCl",12,15817.3,22473,710154.1,1052700.8
-"Concerta","Methylphenidate HCl",12,2202.7,6062,436340.5,1040067
-"Norethindron-Ethinyl Estradiol","Norethindrone Ac-Eth Estradiol",10,4081.6,5172,735567.7,1039351
-"Epitol","Carbamazepine",12,13014.2,3617,6622338.7,1022891
 "Atropine Sulfate*","Atropine Sulfate",10,82925.3,109532,698601.9,1014245.085
-"Amikacin Sulfate","Amikacin Sulfate",12,4449.8,2801,980445.9,1006706.014
-"Cytomel","Liothyronine Sodium",12,3541.8,2302,1382517.1,1001598
-"Osphena","Ospemifene",10,2613.1,4511,472855.1,1001169
-"Dilantin","Phenytoin",12,6038.2,1348,3561740.6,1001100.5
-"Zoloft","Sertraline HCl",12,4628.1,2751,1506996.1,1000917.5
-"Rayaldee","Calcifediol",8,4064.8,4889,827300.9,995398
-"Easy Touch","Syringe And Needle,Insulin,1ml",12,4738.1,3471,1454365.8,990062
-"Vectical","Calcitriol",12,4435.2,5445,889547.9,986640
-"Butalbital-Acetaminophen","Butalbital/Acetaminophen",12,4028.4,4199,750675.8,977696
 "Cyanocobalamin Injection","Cyanocobalamin (Vitamin B-12)",12,24200.2,94113,245134.8,976522.645
-"Ceftazidime","Ceftazidime",12,5505.3,5212,1470145.2,974218.589
-"Amlodipine-Valsartan-HCTZ","Amlodipine/Valsartan/HCThiazid",10,15542.8,5139,2521539.4,971368
-"Ceftriaxone","Ceftriaxone In Is-Osm Dextrose",12,5335.7,3930,2026097.3,968934
-"Nitrofurantoin","Nitrofurantoin",12,2161.8,1444,1189969.4,968759
-"Norgestimate-Ethinyl Estradiol","Norgestimate-Ethinyl Estradiol",12,3471.2,4493,593032.4,966639
-"Nisoldipine","Nisoldipine",12,10055.2,2920,2930256.6,966599
-"Onfi","Clobazam",11,4931.6,1181,3035024.5,959250
-"Adderall","Dextroamphetamine/Amphetamine",10,1848.1,4019,636821.2,951508
-"Seroquel","Quetiapine Fumarate",12,46223.5,1943,8100238.1,950248.5
-"Retin-A","Tretinoin",10,10051,14269,603960,949545
 "Dexamethasone Sodium Phosphate*","Dexamethasone Sodium Phosphate",10,54278.1,57302,951969.5,947695.819
-"Epclusa","Sofosbuvir/Velpatasvir",8,13015.8,13024,953205,945342
-"Nitro-Bid","Nitroglycerin",12,13584.8,13834,1057466.9,940340.016
-"Trokendi XR","Topiramate",11,4843,3454,1302993.4,934562
-"Prozac","Fluoxetine HCl",12,3261,2226,1322915.6,930640
-"Ondansetron HCl","Ondansetron HCl/PF",12,9049.2,9106,583293.4,922462.32
-"Gengraf","Cyclosporine, Modified",12,1784.9,1201,1606801.8,918951
-"Humulin R U-500","Insulin Regular, Human",12,12804.8,6155,1817561.3,918641
-"Zoledronic Acid","Zoledronic Acid/Mannitol-Water",11,5823.7,9028,535887.4,913930
-"Methylphenidate La","Methylphenidate HCl",12,3653.1,5847,475604.8,904495
-"Pimozide","Pimozide",9,1951,1976,826049.9,904323
-"Plavix","Clopidogrel Bisulfate",11,182108.8,3289,26060755.2,901557
-"Copaxone","Glatiramer Acetate",12,19486.8,6385,2115487.2,900237
-"Protonix","Pantoprazole Sodium",12,17666.8,3654,2732563,891790
-"Tobramycin Sulfate","Tobramycin Sulfate",12,6805.6,3968,2126307,885998.281
-"Cresemba*","Isavuconazonium Sulfate",9,1866.9,3570,436265.4,869484
-"Glyburide Micronized","Glyburide,Micronized",12,11376.7,2017,4170508.6,866710.5
-"Braftovi","Encorafenib",6,1062,1328,703739.2,856712
-"Eucrisa","Crisaborole",7,7829,5637,1036419,856660
-"M-Natal Plus","PNV,Calcium 72/Iron/Folic Acid",6,2973.5,5208,415384.5,847406
-"Clindamycin-Benzoyl Peroxide","Clindamycin Phos/Benzoyl Perox",12,8238.1,8722,828443.5,846421.3
-"Drospirenone-Ethinyl Estradiol","Ethinyl Estradiol/Drospirenone",11,2124.5,3693,442673.3,839726
 "Calcitonin-Salmon*","Calcitonin,Salmon,Synthetic",7,66761.9,59810,1074010.9,834222.085
-"Abacavir-Lamivudine","Abacavir Sulfate/Lamivudine",8,5912.9,2892,1059102,827085
-"Exelon","Rivastigmine",12,87493,4339,17383599,816805
-"Diflunisal","Diflunisal",12,11883.8,3325,2304559.5,806205
-"Nourianz","Istradefylline",5,2657,3546,531374.6,802893
 "Prolensa","Bromfenac Sodium",11,136314.2,144112,662102.7,799797.8
-"Isentress Hd","Raltegravir Potassium",7,1708.3,1463,849048.6,797255
-"Prevacid","Lansoprazole",12,14594.8,2224,3132123.2,791218
-"Fiasp","Insulin Aspart (Niacinamide)",6,2953.8,5559,390223.3,784673
-"Hydromorphone ER","Hydromorphone HCl",10,4507.5,2906,780367.3,784553
-"Symproic","Naldemedine Tosylate",5,4642,5113,673049.2,783415
 "Invega Sustenna","Paliperidone Palmitate",12,56359.3,70988,574364.7,777287.372
-"Isradipine","Isradipine",12,3556.1,1644,1744208.5,776507
-"Oxbryta","Voxelotor",5,1052.2,1521,472814.2,774207
-"Cardizem La","Diltiazem HCl",10,6246.3,3718,1297543.7,771656
-"Tresiba","Insulin Degludec",5,7819.6,10460,559541.9,768102.9
-"Prevident 5000 Enamel Protect","Sodium Fluoride/Potassium Nit",12,3284.5,3429,642687.2,763487
-"Singulair","Montelukast Sodium",10,21689.7,2783,2542811.5,760334
 "Neomycin Sulfate","Neomycin Sulfate",12,51921.3,59818,1206576.2,750510.149
-"Calcipotriene-Betamethasone","Calcipotriene/Betamethasone",5,4352.4,3933,881037.9,747060
-"Nortrel","Norethindrone-Ethin. Estradiol",9,2896.2,2721,688558.5,732688
-"Bosulif","Bosutinib",12,982.1,1732,415213.9,725477
-"Oxycodone HCl ER","Oxycodone HCl",10,22036.1,5310,4305203.1,722943
-"Levo-T","Levothyroxine Sodium",7,7674,4433,1047208.6,721963
-"Eletriptan HBr","Eletriptan Hydrobromide",7,12129.4,14188,583204.2,721836.1
-"Toviaz","Fesoterodine Fumarate",12,70551.5,7230,13740934.9,720255
-"Pro Comfort Pen Needle","Pen Needle, Diabetic",7,3648.3,1941,1290468.6,719765
-"Easy Touch","Syring-Needl,Disp,Insul,0.3 Ml",12,3516.2,2443,948953.5,719280
-"Insulin Syringe U-500","Syringe,Insul U-500,Ndl,0.5ml",8,1899.1,1751,758282.2,716810
-"Alosetron HCl","Alosetron HCl",9,2099.8,2223,596895.4,715449
-"Protriptyline HCl","Protriptyline HCl",12,1954,1381,881714.7,711451.5
-"Demeclocycline HCl","Demeclocycline HCl",12,4903.1,2089,1400313.1,710061
-"Estarylla","Norgestimate-Ethinyl Estradiol",9,1910.3,3423,369396.4,709831
-"Alprazolam XR","Alprazolam",12,4509.3,3734,945786,704100.497
-"Advocate Syringes","Syringe And Needle,Insulin,1ml",12,1460.5,2200,463266,702615
-"Betaxolol HCl*","Betaxolol HCl",10,8892.4,7458,867840.9,701948
-"Theo-24","Theophylline Anhydrous",12,7936.6,3977,1964603.1,697844
-"Methenamine Mandelate","Methenamine Mandelate",12,2117.5,2481,574793.7,691507.5
-"Comfort Ez Insulin Syringe","Syring-Needl,Disp,Insul,0.3 Ml",10,2033.4,2015,738381.9,688478
-"Octreotide Acetate","Octreotide Acetate",12,2859.7,3041,567907.5,685029.075
-"Advocate Syringes","Syringe-Needle,Insulin,0.5 Ml",12,1400.4,2218,420893.2,684856
-"Lonsurf","Trifluridine/Tipiracil HCl",9,2420,3222,469925.4,684264
-"Tri-Sprintec","Norgestimate-Ethinyl Estradiol",12,5194.4,2897,1019970.8,676482
-"Easy Comfort Insulin Syringe","Syringe-Needle,Insulin,0.5 Ml",12,3800.2,1948,1388094.7,672545
-"Salsalate","Salsalate",12,5800.3,1538,2011733.1,671817
-"Aciphex","Rabeprazole Sodium",12,13880.4,1820,3193118.7,668561
-"Moxifloxacin HCl","Moxifloxacin HCl",10,72069,48531,853292.5,666241
-"Dupixent Syringe","Dupilumab",7,14167,20849,429744.9,664635.96
-"Votrient","Pazopanib HCl",10,3249.4,1555,1254923,661809.991
-"Rifabutin","Rifabutin",10,3191.9,5857,401958.9,661266
-"Atazanavir Sulfate","Atazanavir Sulfate",6,3861.5,1861,1052012.3,659693
-"Easy Touch Safety Pen Needle","Pen Needle, Diabetic, Safety",5,697.4,2198,209240.6,659048
-"Ampyra","Dalfampridine",12,7595.8,1179,3573150.6,653385
-"Fluocinonide-E","Fluocinonide/Emollient Base",12,12338.9,6555,1198555.8,647590.03
-"Easy Comfort Insulin Syringe","Syringe And Needle,Insulin,1ml",12,3121.4,1947,1084512.6,644503
-"Phenazopyridine HCl","Phenazopyridine HCl",12,66829.1,32631,1347715.1,640808
-"Doxycycline Ir-Dr","Doxycycline Monohydrate",9,3862.3,3925,597555.2,639624
-"Safetyglide Insulin Syringe","Syringe,Needle,Insuln,Sf 0.5ml",6,1902.5,1877,600201,636598
-"Danazol","Danazol",12,2074.8,1840,700694,635399
 "Boostrix Tdap","Diphth,Pertuss(Acell),Tet Vac",12,438792.8,1250417,227858,632489.06
-"Nicardipine HCl*","Nicardipine HCl",10,2313.1,1049,1334919,625483
-"Blisovi Fe","Norethindrone-E.Estradiol-Iron",8,2476.8,2971,483743.1,624518
-"Benicar HCT","Olmesartan/Hydrochlorothiazide",12,82891.2,2136,19950922.6,623909
-"Diovan HCT","Valsartan/Hydrochlorothiazide",12,65849.6,1990,13836468.7,622107
-"Androgel","Testosterone",12,58246.4,1043,29791273.5,620996.5
-"Wellbutrin SR","Bupropion HCl",12,1867.4,1370,747426.5,619230
-"Naproxen Sodium Cr","Naproxen Sodium",9,3367.9,1604,902337.4,615580.3
-"Sunosi","Solriamfetol HCl",5,2260.4,3390,364345.8,609345.5
-"Lamivudine Hbv","Lamivudine",10,3107.8,2513,665726.8,608633.5
-"Ulticare","Syringe And Needle,Insulin,1ml",12,4446.1,2077,1366524.2,606940
-"Vienva","Levonorgestrel/Ethin.Estradiol",6,1653.9,2517,372389.8,602418
-"Ritalin","Methylphenidate HCl",12,1256.2,1216,797298.9,599995
-"Glatiramer Acetate","Glatiramer Acetate",7,5844.7,5660,572237.5,599578
-"Lamivudine-Zidovudine","Lamivudine/Zidovudine",12,4296.8,1071,1966548.3,596821
-"Lidocaine HCl*","Lidocaine HCl/PF",10,16762,25210,451221.3,594725.736
-"Cefprozil","Cefprozil",12,39138.8,22839,1057620.5,594411
-"Lasix","Furosemide",11,5505.2,2384,1235506.8,593915
-"Azopt","Brinzolamide",9,99295.5,12393,4823726.5,586152.999
-"Triamterene","Triamterene",5,1938.4,2495,417195.4,581895
-"V-Go 40","Sub-Q Insulin Device, 40 Unit",10,3719.2,2827,696688.5,574514
-"Methotrexate Sodium","Methotrexate Sodium/PF",12,16940.4,21660,503578,565059.39
-"Valium","Diazepam",12,2910.2,1596,957154.7,563134
-"Humalog Mix 50-50 Kwikpen","Insulin Lispro Protamin/Lispro",12,5603.6,3890,842954,556560
-"Novofine Plus","Pen Needle, Diabetic",10,18668.1,3012,5650775.1,556205
-"Ambien","Zolpidem Tartrate",12,4631.4,2421,894632.2,553430
-"Zolmitriptan*","Zolmitriptan",7,10666.1,11158,535867.6,552572
-"Mekinist","Trametinib Dimethyl Sulfoxide",9,1544.9,2289,326972.7,551330
-"Restasis Multidose","Cyclosporine",7,50447,26153,947215.6,551149
-"Efavirenz","Efavirenz",6,2700.5,1779,741395.2,546869
-"Oxymorphone HCl","Oxymorphone HCl",12,7008.2,1477,3395521.2,546687
-"Flavoxate HCl","Flavoxate HCl",12,4885.5,1990,1174326.6,545574
-"Edurant","Rilpivirine HCl",12,2601,2114,643762.2,541174
-"Nefazodone HCl","Nefazodone HCl",12,6711.9,1249,3595887.1,540403
-"Uloric","Febuxostat",12,74170.8,2226,16028989.7,539278
-"Ocaliva","Obeticholic Acid",8,1355.8,1950,332755.6,538964
-"Dificid","Fidaxomicin",12,9100.8,21562,230889.5,527975
-"Ulticare","Syringe-Needle,Insulin,0.5 Ml",12,4007.1,1674,1222043.9,527002
-"Ativan*","Lorazepam",10,1787.8,1309,807053.7,525270
-"Fyavolv","Norethindrone Ac-Eth Estradiol",8,1851,2379,372057.2,519834
-"Abilify","Aripiprazole",12,130282.1,1736,26053759.5,516496.25
-"Glumetza","Metformin HCl",12,4403,1048,1636972.8,515664
-"Zyprexa*","Olanzapine",10,2490.1,1383,818576.4,514261.5
-"Glydo","Lidocaine HCl",9,1384.7,4404,173234.4,513311.3
-"Zetia","Ezetimibe",10,315030,1960,88732362.4,513178
-"Junel","Norethindrone Ac-Eth Estradiol",12,2368.8,2639,387008.8,512279
-"Easy Comfort Alcohol Pad","Alcohol Antiseptic Pads",5,1367.4,1098,662320.2,510053
-"Haloperidol Decanoate","Haloperidol Decanoate",12,34169.1,34910,456889.9,509560.212
-"Duexis","Ibuprofen/FAmotidine",12,4603.3,1223,1078437.4,508393
-"Repatha Pushtronex","Evolocumab",8,7818.4,18429,202847.9,499785.375
-"Levobunolol HCl","Levobunolol HCl",12,27067.8,13542,886435.6,499642
-"Tazarotene","Tazarotene",7,3246.3,4869,311814.9,495271
-"Plaquenil","Hydroxychloroquine Sulfate",8,2108.8,1340,503039.5,494259
-"Cialis","Tadalafil",12,33895.4,1876,5122316.9,494063
-"Ascomp With Codeine","Codeine/Butalbital/Asa/Caffein",12,3693.2,1169,1335207.4,486642
-"V-Go 20","Sub-Q Insulin Device, 20 Unit",10,2815.5,2765,459245.2,484346
-"Methscopolamine Bromide","Methscopolamine Bromide",12,3985.5,1596,863128,484121
-"Jublia","Efinaconazole",10,17831.4,28671,272706.4,482537
-"Xhance","Fluticasone Propionate",6,4637,7670,277722,480802
-"Trandolapril-Verapamil ER","Trandolapril/Verapamil HCl",11,1710.4,1534,384291.3,474563
-"Methylphenidate HCl ER (Cd)","Methylphenidate HCl",7,1621.4,2920,313327.3,470052
-"Seroquel XR","Quetiapine Fumarate",12,60480.3,1074,16092434,468208
-"Zypitamag","Pitavastatin Magnesium",6,827,2268,148015.8,463291
-"Safetyglide Insulin Syringe","Syringe,Needle,Insuln,Safe,1ml",7,2180.1,2108,622722.7,462861
-"Asmanex HFA","Mometasone Furoate",7,11256,9299,389866.5,461431
-"Imvexxy","Estradiol",6,5113.3,8850,241227.2,459562
-"Fosrenol","Lanthanum Carbonate",12,8336.7,1007,4649238.8,455585
-"Timoptic Ocudose","Timolol Maleate/PF",12,4455.3,1666,1209453.2,451233
-"Pristiq","Desvenlafaxine Succinate",12,43383.8,1555,9745843.2,448565
-"Effer-K","Potassium Bicarbonate/Cit Ac",12,1678,3188,264116.7,445862
-"Repatha Syringe","Evolocumab",9,12955.9,36381,149356.9,445706
-"Coreg Cr","Carvedilol Phosphate",12,23832.3,1434,6482794.3,444880
-"Terbutaline Sulfate*","Terbutaline Sulfate",10,2302.2,1087,946228.1,444484
-"Adapalene","Adapalene",12,4947.1,4155,464159.5,443059
-"V-Go 30","Sub-Q Insulin Device, 30 Unit",10,2882.7,2482,457665.4,442497
-"Vesicare","Solifenacin Succinate",12,235338.7,1826,45411122.3,441613
-"K-Tab ER","Potassium Chloride",12,66737.5,2111,29086991.8,440966
-"Saphris","Asenapine Maleate",12,16433.9,1135,4595941.6,435312
-"Glatopa","Glatiramer Acetate",9,2797.3,3140,428549.6,434275
-"Promethegan","Promethazine HCl",12,22532.8,14190,696582.7,432627
-"Zejula","Niraparib Tosylate",7,1972.1,1886,405426.7,431027.988
-"Aztreonam","Aztreonam",12,1760.1,1454,662360.9,430255.55
-"Safetyglide Insulin Syringe","Syringe And Needle,Insulin,1ml",10,2213.6,2400,515572.4,429289
-"Ketoprofen","Ketoprofen",12,13209.2,1019,2701548.8,427543
-"Micardis","Telmisartan",12,21442.7,1322,4915196.5,421703
-"Wakix","Pitolisant HCl",5,749.2,1235,228619.8,421197
-"Cryselle","Norgestrel-Ethinyl Estradiol",12,2588.4,1622,574424.9,420762
 "Aimovig Autoinjector","Erenumab-Aooe",6,42970.2,55770,294690,420127.999
-"Nicotrol Ns","Nicotine",12,2878.5,2890,511382.7,418301
-"Mili","Norgestimate-Ethinyl Estradiol",6,1414.3,2041,255609.7,418189
-"Desvenlafaxine ER","Desvenlafaxine",11,2765.9,3467,346814.9,414307
-"Intrarosa","Prasterone (Dhea)",7,3494.2,3100,352241.4,409617
-"Fluphenazine Decanoate","Fluphenazine Decanoate",12,15046.7,11896,442648.7,408755.896
-"Alprazolam ODT","Alprazolam",12,2626.2,2780,410711,406747
-"1st Tier Unifine Pentips Plus","Pen Needle, Diabetic",10,3755.5,1267,1100822,406617
-"Stivarga","Regorafenib",12,2432.8,2004,495302.5,405720
 "Prolia","Denosumab",12,147505.8,255565,229081.9,403776.814
-"Lotemax Sm","Loteprednol Etabonate",5,41641.2,43117,364185.6,403600.3
-"Kristalose","Lactulose",12,5222.2,3070,743495.7,402533
-"Rituxan","Rituximab",12,1595.4,1426,507748.4,400359.38
-"Tirosint-Sol","Levothyroxine Sodium",5,1491,2138,286153.8,393765
-"Vytorin","Ezetimibe/Simvastatin",10,90772.5,1407,25343522.4,393209
-"Savaysa","Edoxaban Tosylate",9,3202.9,1610,650023.8,390494.5
-"Alogliptin-Metformin","Alogliptin Benz/Metformin HCl",8,1478.4,1503,371328,389458
-"Aripiprazole ODT","Aripiprazole",8,1033.6,1915,183929.8,387254
-"Larin Fe","Norethindrone-E.Estradiol-Iron",11,1391.5,1803,258549.2,386445
-"Avapro","Irbesartan",11,3110.9,1228,780452.5,386143
-"Imipramine Pamoate","Imipramine Pamoate",12,1983.8,1234,572989.9,383873.118
-"Sofosbuvir-Velpatasvir","Sofosbuvir/Velpatasvir",5,4577.8,5500,318116,382266
-"Bidil","Isosorbide Dinit/Hydralazine",9,9783.7,1068,3621794.1,381809
-"Jencycla","Norethindrone",11,643.1,2064,97614.2,377376
-"Erythromycin-Benzoyl Peroxide","Erythromycin/Benzoyl Peroxide",12,6185,3578,612132,376394.325
-"Apri","Desogestrel-Ethinyl Estradiol",12,1885.1,1455,432161.5,369603
-"Heather","Norethindrone",12,1392.8,2158,223097.5,366391
-"Korlym","Mifepristone",11,524.3,1059,183047,361950
-"Enstilar","Calcipotriene/Betamethasone",8,1908.5,2053,302912.5,361230
-"Sumatriptan","Sumatriptan",12,10725.3,13833,251522.1,360458
-"Invega","Paliperidone",12,19232.7,2964,4863037.9,357175
-"Enbrel","Etanercept",12,20695.5,10678,722020.6,352204.56
-"Gilenya","Fingolimod HCl",12,5344.8,1583,1450769.7,351983
-"Estrace*","Estradiol",10,142902.7,2669,11580845.5,351203
-"Novolog Penfill","Insulin Aspart",7,3981.3,5070,246581.1,348165
-"Ergotamine-Caffeine","Ergotamine Tartrate/Caffeine",7,1722.4,2106,305236.3,344805
-"Methylphenidate HCl CD","Methylphenidate HCl",12,1886.7,2502,326902.8,341306
-"Nafcillin Sodium*","Nafcillin Sodium",10,1319,1017,1183562.3,340114.14
-"Tibsovo","IVosidenib",6,632.2,1183,164711,335927
-"Griseofulvin","Griseofulvin, Microsize",12,3498.5,3292,368109.9,334448
-"Clindamycin Phos-Benzoyl Perox","Clindamycin Phos/Benzoyl Perox",12,2050.6,3716,165720.8,330240
-"Safetyglide Insulin Syringe","Syringe,Needle,Insuln,Sf,0.3ml",6,1243.8,1206,350606.7,328080
-"Monoject Insulin Syringe","Syringe-Needle,Insulin,0.5 Ml",12,6998.9,1219,2478392.1,327844
-"Safetyglide Insulin Syringe","Syringe-Needle,Insulin,0.5 Ml",12,1471.5,1099,436229.2,324053
-"Norethindrone-E.Estradiol-Iron","Norethindrone-E.Estradiol-Iron",7,1277.4,1558,209405.9,324049
-"Piqray","Alpelisib",5,1713.6,1673,312010.2,323790
-"Flucytosine","Flucytosine",10,503.1,2899,70593.6,322529
-"Amoxicillin-Clavulanate Pot ER","Amoxicillin/Potassium Clav",12,16734.1,10899,581259.8,322409
-"Orencia Clickject","Abatacept",8,5792.2,10895,158570.5,321866
-"Errin","Norethindrone",10,1681.7,1794,265263.2,321156
-"Emgality Pen","Galcanezumab-Gnlm",6,27612.7,46469,176410,320158.48
-"Techlite Insulin Syringe","Syringe And Needle,Insulin,1ml",6,928,1220,235225.3,319670
-"Penicillin G Potassium","Penicillin G Potassium",12,575.9,1181,355122.7,318299.065
-"Isibloom","Desogestrel-Ethinyl Estradiol",6,1079.3,1294,264483.3,313150
-"Procrit","Epoetin Alfa",12,28982.1,24380,380541.4,312930
-"Phenytek","Phenytoin Sodium Extended",12,2335.8,2109,525253.5,310772
-"Ulticare Insulin Syringe","Syringe And Needle,Insulin,1ml",8,801.1,1052,238701.2,309192
-"Klor-Con-Ef","Potassium Bicarbonate/Cit Ac",11,2000.8,1496,392689.5,307463
-"Olanzapine-Fluoxetine HCl","Olanzapine/Fluoxetine HCl",12,2599.3,1287,556739.1,306804
-"Cefaclor","Cefaclor",12,10475.3,5291,429754.7,306337
-"Xopenex HFA","Levalbuterol Tartrate",12,50309.8,5049,3211140.6,304860
-"Admelog Solostar","Insulin Lispro",6,10285.7,11113,437232.2,304125.3
-"Tri-Estarylla","Norgestimate-Ethinyl Estradiol",8,734.5,1349,138682.5,301876
-"Aminocaproic Acid*","Aminocaproic Acid",8,1011.1,1119,162523.7,301216.785
-"Bimatoprost*","Bimatoprost",9,8637.8,16233,139295.3,301033.334
-"Nuzyra*","Omadacycline Tosylate",5,1546.8,3687,131549.8,289675
-"Finacea","Azelaic Acid",11,15820.4,2805,1178573.7,288200
-"Yupelri","Revefenacin",5,693.4,1274,169105,287964
-"Prevymis","Letermovir",6,1317.5,2391,149307,286090
-"Betamethasone Diprop Augmented","Betamethasone Dipropionate",10,3894.4,3869,299674.4,285158.4
-"Hydrocortisone-Acetic Acid","Hydrocortisone/Acetic Acid",12,25862.4,22259,336384.1,283556
-"Techlite Insulin Syringe","Syrge-Ndl,Ins 0.5 Ml Half Mark",6,921.7,1043,230072.5,283277
-"Rapaflo","Silodosin",11,49773.2,1044,8449873.4,281782
-"Olumiant","Baricitinib",6,1169.2,1389,205457.8,281209.475
-"Humalog Junior Kwikpen","Insulin Lispro",7,3379.4,5648,156991.6,278818
-"Aristada","Aripiprazole Lauroxil",9,8878.2,13295,168198.5,278243.095
-"Carbinoxamine Maleate","Carbinoxamine Maleate",12,2238.5,1400,336008,276874
-"Menest","Estrogens,Esterified",12,4129.9,1243,919690.2,273379
-"Valtrex","Valacyclovir HCl",12,2124.8,1195,379989.8,272966
-"Ambien Cr","Zolpidem Tartrate",12,3291.1,1089,721728.8,270229
-"Nimodipine","Nimodipine",12,855.8,1005,202748.4,269277
-"Vandazole","Metronidazole",12,6158.3,2995,567506.6,268380
-"Pylera","Bismuth/Metronid/Tetracycline",11,5106.6,2056,634614.3,266094
-"Cipro","Ciprofloxacin",12,2931.1,1810,438416,264525
-"Lunesta","Eszopiclone",12,37150.4,1180,5532719.9,263678
-"Actemra*","Tocilizumab",10,4378.5,4570,175893.3,263212.8
-"Rectiv","Nitroglycerin",12,2780,5041,135349.5,257062
-"Granisetron HCl*","Granisetron HCl",10,2328.5,2941,119921.9,255062.8
-"Slynd","Drospirenone",5,634.8,1426,101051.2,253119
-"Oxervate","Cenegermin-Bkbj",5,2332.2,3526,158511.6,251694
-"Low-Ogestrel","Norgestrel-Ethinyl Estradiol",11,1856.7,1024,358796.5,250155
-"Aviane","Levonorgestrel/Ethin.Estradiol",9,1416.4,1072,261149.8,248182
-"Forteo","Teriparatide",12,27516.9,15602,410518.9,244836.72
-"Simpesse","L-Norgest/E.Estradiol-E.Estrad",5,576.8,1135,117349,244767
-"Cosentyx Sensoready (2 Pens)","Secukinumab",5,12426.4,14435,205688.4,241760
-"Pioglitazone-Glimepiride","Pioglitazone HCl/Glimepiride",11,1644.6,1132,345636.1,240941
-"Desmopressin Acetate","Desmopressin (Nonrefrigerated)",12,3263.9,3913,145337.6,239039.167
-"Stelara*","Ustekinumab",10,11831.7,22930,82867.6,238312.01
-"Doptelet","Avatrombopag Maleate",6,852,1609,96022.3,236416
-"Besivance","Besifloxacin HCl",12,134453.3,30725,948808.4,235314.5
-"Calquence","Acalabrutinib",7,4229.4,2590,1379025.7,235024
-"Methylphenidate ER (La)","Methylphenidate HCl",9,1584.7,2313,247556,234967
-"Humira Pen","Adalimumab",12,34128.2,13638,586982.9,234721.4
-"Abilify Maintena","Aripiprazole",11,20161,29378,149297,233084.9
-"Apidra Solostar","Insulin Glulisine",12,8719.1,2418,644621.3,233007
-"Alyacen","Norethindrone-Ethin. Estradiol",9,1097.1,1056,224378.2,230163
-"Mimvey","Estradiol/Norethindrone Acet",12,2746.8,1302,478047.2,228636
-"Loryna","Ethinyl Estradiol/Drospirenone",10,829.8,1088,134845.8,227722
-"Ranexa","Ranolazine",12,124731.8,1203,48400186.8,225294
-"Naftin","Naftifine HCl",9,10916.6,1900,1032593.6,224931
-"Cyclophosphamide*","Cyclophosphamide",10,2279.2,1621,311637.6,223191.302
-"Genotropin","Somatropin",12,921,1572,146116.9,222646
-"Tri-Lo-Mili","Norgestimate-Ethinyl Estradiol",5,642.8,1171,107534,220728
-"Taztia Xt","Diltiazem HCl",12,33953.3,1349,7087272.5,220522
-"Isotretinoin","Isotretinoin",6,905.3,2097,91816.2,219111
-"Nitrostat","Nitroglycerin",12,557327.2,2746,36474518.1,214506.5
-"Vivelle-Dot","Estradiol",12,19496.4,3081,1127675.4,213732
-"Dexamethasone Intensol","Dexamethasone",12,994.5,1486,177755.7,213584
-"Fondaparinux Sodium","Fondaparinux Sodium",12,7804.6,2688,285659.1,213490.3
-"Mydayis","Dextroamphetamine/Amphetamine",7,788.1,1164,137234,212633
-"Carteolol HCl","Carteolol HCl",12,6352.2,5536,218184.9,211585
-"Spravato","Esketamine HCl",5,2050.8,3884,108465.7,210530
-"Colistimethate","Colistin (Colistimethate Na)",12,1562.2,1652,180164.1,210418
-"Nizatidine","Nizatidine",12,9134.2,1039,2389095.5,209264
-"Erivedge","Vismodegib",12,1782,1719,226875.8,208859
-"Humalog Mix 50-50","Insulin Lispro Protamin/Lispro",12,3338.4,1297,588837.8,208520
-"Incassia","Norethindrone",5,861,1158,144834.4,205582
-"Climara","Estradiol",12,8477.1,6601,297727.7,204713
 "Twinrix","Hepatitis A And B Vaccine/PF",12,28002.9,119578,45336.5,200788
-"Tobradex","Tobramycin/Dexamethasone",12,68232,39403,351873.9,200256.5
-"Quinine Sulfate","Quinine Sulfate",12,3518.5,1138,520682.3,199942
-"Cyclobenzaprine HCl ER","Cyclobenzaprine HCl",5,1113,1385,152931.3,199713.4
-"Cefixime","Cefixime",9,5015.7,11613,142221.1,199130
-"Griseofulvin Ultramicrosize","Griseofulvin Ultramicrosize",12,3023,1743,226475,190890
-"Divigel","Estradiol",10,2273.3,1057,412179.2,187775.25
-"Risperdal Consta","Risperidone Microspheres",12,21488,11151,363464.1,186414.001
-"Xolair","Omalizumab",12,5082.8,9161,106624.5,186295.9
-"Alrex","Loteprednol Etabonate",12,25084.4,13226,348183.2,184181
-"Ribavirin*","Ribavirin",6,1374.7,1130,181367.3,178321
-"Streptomycin Sulfate","Streptomycin Sulfate",12,723.2,1682,88664.6,177620.4
-"Androderm","Testosterone",11,8343.7,2562,1199158,177027
-"Pyrazinamide","Pyrazinamide",12,1250.7,1225,164865.4,174208
-"Sf","Fluoride (Sodium)",10,9061.6,1338,1229070,173237.8
 "Plenvu","PEG3350/Sod Sul/NaCl/KCl/Asb/C",6,35224.8,56685,106933.4,172839
-"Albendazole","Albendazole",6,4953.2,7118,87063.8,170440
-"Ciprodex","Ciprofloxacin HCl/Dexameth",10,128722.3,17816,1074989.4,169791
-"Qnasl","Beclomethasone Dipropionate",12,6970.6,2970,241718.1,168731.2
-"Pulmicort Flexhaler","Budesonide",12,50992.2,43954,199318.3,167458.93
 "Proair Respiclick","Albuterol Sulfate",9,68491.8,61816,155110.1,165232.097
-"Compro","Prochlorperazine",12,10852.3,6848,215370.1,164007
 "Adacel Tdap","Diph,Pertuss(Acell),Tet Vac/PF",12,186476.2,240258,133351.6,160008.8
-"Ilevro","Nepafenac",8,140181.3,28476,481019.7,159833
-"Benlysta*","Belimumab",10,2242.3,4938,69776,156258.55
-"Vagifem","Estradiol",12,48398.1,2346,2498291.4,154964
-"Claravis","Isotretinoin",12,1390,1505,173935.8,154689
-"Betimol","Timolol",10,10179.4,6978,226625.6,152500.33
-"Paroxetine Mesylate","Paroxetine Mesylate",7,1138.4,1010,166149.4,152240
-"Combipatch","Estradiol/Norethindrone Acet",12,3971.3,3033,186957.5,152146
-"Betaseron","Interferon Beta-1b",12,3370.6,1207,417038.3,151963
-"Dihydroergotamine Mesylate*","Dihydroergotamine Mesylate",10,3221,3239,108741.8,151773
-"Flarex","Fluorometholone Acetate",12,4999.9,15372,48712.4,150982.6
-"Colcrys","Colchicine",12,178175.8,1022,20355095.3,147698
-"Enbrel Mini","Etanercept",7,3745.1,4486,106078.3,146378.92
-"Epinastine HCl","Epinastine HCl",12,11620.9,7817,178802.6,145359.5
-"Venclexta Starting Pack","Venetoclax",8,2363.5,3396,100300.9,143737
-"Bacitracin-Polymyxin","Bacitracin/Polymyxin B Sulfate",12,25880.6,28443,130121.7,143204.5
-"Travatan Z","Travoprost",10,265597.8,7534,4140798,142400.5
-"Mefloquine HCl","Mefloquine HCl",12,10212.2,11922,111672.9,141201
-"Actemra Actpen","Tocilizumab",5,4154.2,6927,75449.5,138823.7
-"Proctofoam-HC","Hydrocortisone/Pramoxine",12,8015.1,6723,141774.1,138520
-"Butorphanol Tartrate*","Butorphanol Tartrate",10,4178.6,2753,195091.4,137059
-"Malathion","Malathion",10,2080.8,1252,201436.6,133880
-"Omnipod Classic Pods (Gen 3)","Insulin Pump Cart,Cont Inf,Rf",6,3476,1746,336568.5,133600
-"Lotemax","Loteprednol Etabonate",12,135653.2,15993,1517061.2,133367.5
-"Invega Trinza","Paliperidone Palmitate",9,14073.4,18591,98062,132581.134
-"Famotidine","Famotidine/PF",12,1141.9,1721,76016.2,129591.1
-"Admelog","Insulin Lispro",6,5081.7,4971,125709.9,129533.14
-"Orencia","Abatacept",11,4935.9,4032,147889.2,128746
-"Soolantra","IVermectin",9,6742.1,1267,492001.2,128610
-"Retacrit","Epoetin Alfa-Epbx",6,9108.8,12187,108189,128431.93
-"Risedronate Sodium Dr","Risedronate Sodium",7,8396.8,4170,136457.1,125316
-"Butrans","Buprenorphine",12,26264.3,6514,451914.4,124911
-"Methylprednisolone Sodium Succ*","Methylprednisolone Sod Succ",10,4878.5,5650,160443.1,124034.333
-"Humira(Cf)","Adalimumab",6,5744.2,7030,91253,123513.8
-"Proair HFA","Albuterol Sulfate",12,1614092.2,6696,42743795.1,122679
-"Betoptic S","Betaxolol HCl",12,6788.1,2286,358640.5,122180
-"Clarithromycin ER","Clarithromycin",12,15583.9,3663,294124.5,122116
-"Chloroquine Phosphate","Chloroquine Phosphate",12,2168,1536,115826,121863
-"Zenatane","Isotretinoin",10,541.1,1218,59448,121347
-"Gatifloxacin","Gatifloxacin",11,58209.5,26914,242286.8,118289
-"Tymlos","Abaloparatide",7,9467.3,12979,80700.8,116927.68
-"Hydrocortisone-Pramoxine","Hydrocortisone/Pramoxine",6,1996.5,2113,105089.2,116811.15
-"Botox","Onabotulinumtoxina",12,15175.7,32043,55376.9,115136.3
-"Frovatriptan Succinate","Frovatriptan Succinate",8,2083,1913,112203,114494
-"Zolmitriptan ODT","Zolmitriptan",11,2369.1,2614,106209.9,112932
-"Quinapril-Hydrochlorothiazide","Quinapril/Hydrochlorothiazide",12,23363.9,1224,6864741.1,112521
-"Cyclopentolate HCl","Cyclopentolate HCl",12,16689.6,15922,137913.5,112020.5
-"Bromfenac Sodium","Bromfenac Sodium",12,21120,23960,84561.8,111782.5
-"Tinidazole","Tinidazole",12,4979.6,6633,80281.8,110932
-"Lidoderm","Lidocaine",12,142872.4,1313,18623066.8,109712
-"Beconase Aq","Beclomethasone Dipropionate",12,2192.3,1013,206061.2,105550
-"Zirgan","Ganciclovir",12,11801.1,11222,102832.3,100929
-"Solu-Cortef","Hydrocortisone Sodium Succ/PF",12,2955.6,5401,74999.7,98457.86
-"Remicade","Infliximab",12,2527,2863,80172,96367.33
-"Adapalene-Benzoyl Peroxide","Adapalene/Benzoyl Peroxide",7,680.1,1027,56460,94695
-"Midazolam HCl","Midazolam HCl/PF",12,12698.8,23448,30219.9,92324
-"Azelex","Azelaic Acid",9,1650.8,1144,132644,91740
-"Estring","Estradiol",12,30413.8,33506,81797.3,91507.99
-"Regranex","Becaplermin",10,4528,2804,122376.1,91050
-"Priftin","Rifapentine",12,696,1302,44392.1,86464
-"Baqsimi","Glucagon",5,18950.8,32681,47188.2,86194
-"Zarxio","Filgrastim-Sndz",9,5609.6,8324,62409.8,83426.4
-"Nayzilam","Midazolam",5,6471.6,13209,41702.3,83060
-"Cipro HC","Ciprofloxacin/Hydrocortisone",12,11861.5,7431,135343.1,82856.5
-"Midazolam HCl*","Midazolam HCl",10,11136.1,20162,46390,82375.9
-"Ocrevus","Ocrelizumab",7,1551.4,2492,51261.3,82010.8
-"Trifluridine","Trifluridine",12,11364.4,7948,96997.4,81811
-"Keytruda","Pembrolizumab",10,662.8,1523,32006.4,80592
-"Meropenem-0.9% NaCl","Meropenem-0.9% Sodium Chloride",9,1727.1,2888,118896.8,80548.04
-"Depo-Testosterone","Testosterone Cypionate",12,10508.6,11681,108191,78601.37
-"Striverdi Respimat","Olodaterol HCl",10,2517.3,3476,52302.4,77985
-"Orphenadrine Citrate","Orphenadrine Citrate",12,18456.5,5307,1744185.8,75938
-"Rebif","Interferon Beta-1a/Albumin",12,4290.1,1364,235570.2,75785.4
-"Simponi Aria","Golimumab",11,511.4,1222,30432.3,74381.76
-"Glucagon Emergency Kit","Glucagon",7,49843.3,38387,103552.5,74338
-"Tobradex St","Tobramycin/Dexamethasone",9,9548.2,10925,68635.8,72633.5
-"Almotriptan Malate","Almotriptan Malate",8,1338.9,1289,73281.1,72253
-"Humira","Adalimumab",12,11898.4,4742,192923,72205.6
-"Ninlaro","Ixazomib Citrate",9,3905.7,3384,71195.4,71785
-"Xyosted","Testosterone Enanthate",5,2971.8,5120,39611.3,70914
-"Aprepitant","Aprepitant",7,3817.1,4705,51698.7,70183
-"Evenity (2 Syringes)","Romosozumab-Aqqg",5,3179.4,6219,35700.4,69805.43
-"Nucala","Mepolizumab",8,3488.5,7618,28655.2,69222.2
-"Taltz Autoinjector","Ixekizumab",8,4108.8,8491,31675.6,68923
-"Bacitracin*","Bacitracin",10,54919.3,14794,378159.8,68817.5
-"Estradiol Valerate","Estradiol Valerate",11,2311.2,4078,28438.4,68714.55
-"Bromsite","Bromfenac Sodium",8,16918.2,6676,141925.4,66241.333
-"Emgality Syringe","Galcanezumab-Gnlm",5,6370.2,9544,39389,63287
-"Asmanex","Mometasone Furoate",10,40972.3,11082,201921.8,61974.882
-"Testosterone Enanthate","Testosterone Enanthate",12,5107.6,3568,73613.5,61911.5
-"Rasuvo","Methotrexate/PF",9,3243.2,5262,34727.1,60891.95
-"Trexall","Methotrexate Sodium",12,1163.2,1875,42297,59498
-"Kevzara","Sarilumab",7,2260.7,4167,31651.9,58613
-"Flurbiprofen Sodium","Flurbiprofen Sodium",12,14370.8,8299,83197.9,57379
-"Zylet","Tobramycin/Lotepred Etab",12,13515.5,6592,106690.6,57300
-"Climara Pro","Estradiol/Levonorgestrel",12,1950.5,1983,52787.2,56868
-"Xalatan","Latanoprost",12,8256.7,2542,143999.8,55051.5
-"Bepreve","Bepotastine Besilate",11,16894,3305,308028.4,54712.5
-"Arestin","Minocycline HCl Microspheres",12,2614.8,1157,73930.6,54521
-"Nivestym*","Filgrastim-Aafi",5,1524.6,4310,18229.1,54380.6
-"Byetta","Exenatide",12,26753.3,3396,375898.6,52092
-"Ajovy Syringe","Fremanezumab-Vfrm",6,6248.3,5556,54934.4,51173.5
-"Havrix","Hepatitis A Virus Vaccine/PF",12,43283.2,43513,48996.5,50709
-"Xylocaine-MPF","Lidocaine HCl/PF",12,2169.2,2500,40618,49361.7
-"Prochlorperazine","Prochlorperazine",12,11145.3,2594,238625.3,48955
-"Cimzia","Certolizumab PEGol",12,5066.2,5602,41313.1,48693
-"Fluoxetine Dr","Fluoxetine HCl",12,1303.2,1094,49633.2,45773
-"Epogen","Epoetin Alfa",12,3421.5,4041,40482.9,43010.167
-"Neomycin-Bacitracin-Polymyxin","Neomycin/Bacitracin/Polymyxinb",7,5990.4,9227,27764.6,42931
-"Fentanyl Citrate*","Fentanyl Citrate/PF",10,5918.1,17038,141541.6,40602
-"Tremfya","Guselkumab",7,4489.1,8945,18827.9,39127
-"Pred Forte","Prednisolone Acetate",12,7465.2,1931,119508.9,38730
-"Orencia","Abatacept/Maltose",12,1236.5,1749,27109.9,37874
-"Vivitrol","Naltrexone Microspheres",12,4309.2,8594,17773.1,37281.45
-"Flumazenil","Flumazenil",12,2678.7,6305,15444.4,36424.5
-"Narcan","Naloxone HCl",8,188810.4,15137,420563.4,34545.8
-"Palonosetron HCl","Palonosetron HCl",6,752.3,1091,21853.6,33703
-"Neomycin-Polymyxin-Gramicidin","Neomycin/Polymyxn B/Gramicidin",12,6569.4,2907,76658.8,33493.5
-"Vardenafil HCl","Vardenafil HCl",5,1058,1629,19251,33257
-"Sulfacetamide-Prednisolone","Sulfacetamide/Prednisolone Sp",12,6064.3,3554,70665.4,32630
-"Solu-Medrol*","Methylprednisolone Sod Succ/PF",10,6247.7,5738,97420.9,32274.4
 "Tenivac","Tetanus-Diphtheria Toxoids/PF",10,28408.4,51546,18654.3,31446.05
-"Bicillin L-A","Penicillin G Benzathine",12,2824.3,2770,37343.9,31004.2
-"Proventil HFA","Albuterol Sulfate",10,107680.7,1885,2102825.2,30123.2
-"Fasenra Pen","Benralizumab",5,3161,6317,13923.5,29627.28
-"Apraclonidine HCl","Apraclonidine HCl",12,1774.3,1543,37206.2,28463
-"Cosentyx Sensoready Pen","Secukinumab",5,3265,3872,23462.2,28439
-"Dalvance","Dalbavancin HCl",10,604.4,1299,14737.2,26596.5
-"Xgeva","Denosumab",12,1784.5,2900,15602.1,25302.7
-"Fml Forte","Fluorometholone",12,5426.4,2161,65242.4,25292
-"Xulane","Norelgestromin/Ethin.Estradiol",10,1894.4,1329,35799.4,25223
-"Aranesp","Darbepoetin Alfa In Polysorbat",12,7856.8,5574,35031.8,25085.24
-"Inveltys","Loteprednol Etabonate",5,7681.4,3984,38794.2,24987.2
-"Lupron Depot","Leuprolide Acetate",12,6784,8570,20211.2,24722
-"Pred Mild","Prednisolone Acetate",12,4577,1820,61220.8,23955
-"Cosentyx (2 Syringes)","Secukinumab",9,1159.1,1677,15556.1,23489
-"Neomycin-Bacitracin-Poly-HC","Neomycin/Bacit/P-Myx/Hydrocort",12,4426.3,4907,20707.8,22505.5
-"Xpovio","Selinexor",5,963,1117,29109.8,22140
-"Zoledronic Acid","Zoledronic Acid",11,857,1157,13712.5,21947
-"Podofilox","Podofilox",12,3344.2,3737,19448.8,21674
-"Avonex Pen","Interferon Beta-1a",10,4708.9,2255,44990.4,21623.25
-"Durezol","Difluprednate",11,244500.6,2284,2036285.4,21460
-"Methylprednisolone Acetate","Methylprednisolone Acetate",12,6953.3,8625,17616.6,21419.8
-"Sublocade","Buprenorphine",6,1616,3954,8021.1,20123
-"Depo-Estradiol","Estradiol Cypionate",12,3698.7,1893,47799.8,19957.67
-"Tudorza Pressair","Aclidinium Bromide",11,27929.8,2761,87369,19546
-"Ciloxan","Ciprofloxacin HCl",10,5805.2,3611,34814.5,19490.5
-"Cortisporin-Tc","Neomyc/Colist/Hydrocort/Thonzn",8,6567.1,1785,73296.5,19283
-"Haloperidol Decanoate 100","Haloperidol Decanoate",12,10715.4,2269,100254.5,18128
-"Meperidine HCl","Meperidine HCl/PF",12,4754.5,5472,44608.6,17678
-"Dexamethasone Sodium Phosphate","Dexamethasone Sodium Phosp/PF",12,787.8,1646,13969.9,17113.666
-"Avonex","Interferon Beta-1a",12,5432.9,1786,70641.3,16967.25
-"Otrexup","Methotrexate/PF",10,1331.6,1456,14277.5,16885.8
-"Typhim Vi","Typhoid Vi Polysacch Vaccine",10,12992.3,24960,11127.2,16871.325
-"Glucagen","Glucagon",7,22418.3,9515,45890.5,16637.8
-"Tobrex","Tobramycin",12,8219.8,3603,38886.8,16503.5
-"Simponi","Golimumab",12,3460.6,3463,15299.6,16130
-"Neupogen","Filgrastim",12,5385.5,1092,81640.4,16065.8
-"Perseris","Risperidone",5,1457.2,2832,8009.8,15901.133
-"Mavenclad","Cladribine",5,953.6,1130,12547.2,15321
-"Nevanac","Nepafenac",12,68688.8,1386,391947.5,15028
-"Azasite","Azithromycin",10,12259.8,2780,60987.9,13976.5
-"Mesalamine","Mesalamine W/Cleansing Wipes",12,2028.5,1086,65919.1,13892
-"M-M-R II Vaccine","Measles,Mumps,Rubella Vacc/PF",12,10544.8,11583,13285.5,13258.5
-"Entyvio","Vedolizumab",10,1041.7,2238,10798.6,12149.233
-"Fasenra","Benralizumab",6,2141.2,2747,8741.2,11723
-"Vaqta","Hepatitis A Virus Vaccine/PF",12,11445.5,10556,12127.2,11618
-"Solu-Cortef","Hydrocortisone Sod Succinate",12,658.3,1220,15631.1,11029
-"Xiaflex","Collagenase Clostridium Hist.",12,1765.6,4112,4129.1,10335
-"Sandostatin Lar Depot","Octreotide Acetate,Mi-Spheres",9,1271.9,1252,10178.8,9981
-"Sancuso","Granisetron",12,2145.2,1178,15963.5,9813
-"Humira(Cf) Pen Crohn'S-Uc-Hs","Adalimumab",6,2513,3111,7920.7,9647.4
-"Femring","Estradiol Acetate",9,3026.8,2894,8585.8,8877
-"Miconazole 3","Miconazole Nitrate",12,1626,2096,6613.8,8863
-"Taltz Autoinjector (2 Pack)","Ixekizumab",8,1390.2,2151,5565.1,8557
-"Eluryng","Etonogestrel/Ethinyl Estradiol",5,844.8,1245,4811,7852
-"Emverm","Mebendazole",7,1103.5,1226,6068.3,7821
-"Eligard","Leuprolide Acetate",9,1335.7,2942,3022.9,7046
-"Phenylephrine HCl*","Phenylephrine HCl",10,3381.3,1468,12815.2,7033.5
-"Yf-Vax","Yellow Fever Vaccine Live/PF",12,2223,6969,2219.4,6972.5
-"Etonogestrel-Ethinyl Estradiol","Etonogestrel/Ethinyl Estradiol",5,1158.2,1036,6953.4,6424
-"Xofluza","Baloxavir Marboxil",6,7135.5,5900,11029.8,6175
-"Ipol","Poliomyelitis Vaccine, Killed",12,2583.2,8305,2523.1,6043.1
-"Trelstar","Triptorelin Pamoate",8,1797.8,2074,4417.5,5660
-"Qutenza","Capsaicin/Skin Cleanser",6,718.3,2442,1775.8,5201
-"Humira(Cf) Pen Psor-Uv-Adol Hs","Adalimumab",6,1884.2,1681,5750.9,5107
-"Menveo A-C-Y-W-135-Dip","Mening Vac A,C,Y,W-135 Dip/PF",10,2024.6,4758,2206.2,5041.858
-"Tdvax","Tetanus, Diphtheria Tox,Adult",9,9987,9111,7778.8,4970
-"Taltz Autoinjector (3 Pack)","Ixekizumab",8,911.1,1258,3024.5,4455
-"Cordran","Flurandrenolide",8,3937.2,1839,8473.2,4389
-"Neulasta","PEGfilgrastim",12,2382.2,1671,5397.1,3691.8
-"Gardasil 9","HPv Vaccine 9-Valent/PF",9,1744.3,4779,1340.2,3592
-"Adrenalin","Epinephrine",10,606.4,1928,2526.3,3588.651
-"Neulasta Onpro","PEGfilgrastim",8,1266.2,1543,2791.2,3584.6
-"Aristada Initio","Aripiprazole Lauroxil,Submicr.",6,1023.2,1249,2645.9,3275.2
-"Epipen 2-Pak","Epinephrine",12,100560.1,1172,238946.5,3044
-"Engerix-B Adult","Hepatitis B Virus Vaccine/PF",12,1675.2,1694,2678.5,2749
-"Varivax Vaccine","Varicella Vaccine Live/PF",12,1310.4,2193,1567.8,2671
-"Bexsero","Meningococcal B Vaccine,4-Comp",7,1406.6,3444,1197.4,2363
-"Acthib","Haemoph B Poly Conj-Tet Tox/PF",12,761.8,1548,924.7,1967
-"Gvoke PFS 1-Pack Syringe","Glucagon",5,3103.6,4601,1248.1,1873.8
-"Eylea","Aflibercept",12,2236.2,7025,581.2,1861.95
-"Inpen (For Humalog)","Insulin Pen,Reusable,Bt Lispro",6,728.7,1311,871,1549
-"Inpen (For Novolog Or Fiasp)","Insulin Pen,Reusable,Bt,Aspart",6,667,1228,797.7,1441
-"Gvoke PFS 2-Pack Syringe","Glucagon",5,1178.4,1676,722.5,1018.4
-"Menactra","Mening Vac A,C,Y,W-135 Dip/PF",12,3327.8,1543,2030,885

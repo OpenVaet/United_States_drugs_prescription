@@ -15,9 +15,9 @@ library(dplyr)
 input_file  <- "medicare_partd_dosage_units_2023_stats.csv"
 output_file <- "medicare_partd_dosage_units_2023_filtered.csv"
 
-min_years       <- 5
-min_latest_bene <- 1000
-min_mean_bene   <- 500
+min_years       <- 6
+min_latest_bene <- 50000
+min_mean_bene   <- 10000
 
 # ── Load ───────────────────────────────────────────────────────────────────────
 stats <- read.csv(input_file, stringsAsFactors = FALSE)
